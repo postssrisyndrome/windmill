@@ -1,16 +1,11 @@
----
-slug: "/"
-title: Caratteristiche
-sidebar_label: Caratteristiche
 
----
-**PSSD**
+# Caratteristiche della disfunzione sessuale post-SSRI
 
-La **disfunzione sessuale post-SSRI** (Post-SSRI Sexual Dysfunction, PSSD) è una condizione iatrogena causata da psicofarmaci quali inibitori selettivi della ricaptazione della serotonina (SSRI) e inibitori della ricaptazione di serotonina e noradrenalina (SNRI), caratterizzata da disfunzioni sessuali ed emotive dopo la sospensione degli SSRI/SNRI, disfunzioni che prima dell’inizio del trattamento farmacologico non erano presenti.
+La **disfunzione sessuale post-SSRI** (Post-SSRI Sexual Dysfunction, PSSD) è una sindrome iatrogena causata da psicofarmaci quali inibitori selettivi della ricaptazione della serotonina (SSRI) e inibitori della ricaptazione di serotonina e noradrenalina (SNRI), caratterizzata da disfunzioni sessuali ed emotive dopo la sospensione degli SSRI/SNRI, disfunzioni che prima dell’inizio del trattamento farmacologico non erano presenti.
 
 ![](/img/113207765_s.jpg)
 
-# DELINEAZIONE E EPIDEMIOLOGIA
+## DELINEAZIONE ED EPIDEMIOLOGIA
 
 La PSSD è stata delineata in letteratura medica dal 2006 a partire da case reports, con diversi solleciti da parte degli autori ad indagare più approfonditamente i rischi e le cause della condizione, a tenere controllati gli eventuali cambiamenti della funzionalità sessuale dei pazienti prima, durante e dopo il trattamento e di offrire ai pazienti un Consenso informato prima della prescrizione di antidepressivi SSRI e SNRI.
 
@@ -20,7 +15,7 @@ Le indicazioni presenti nei foglietti illustrativi di SSRI e SNRI sino al 2019 f
 
 Nel giugno 2019 l’Agenzia Europea per i medicinali (EMA) ha concluso una discussione PRAC (“Pharmacovigilance Risk Assessment Committee”, “Comitato di valutazione dei rischi per la farmacovigilanza” in italiano) con la raccomandazione per tutte le case farmaceutiche di SSRI e SNRI di aggiornare i foglietti illustrativi con la dicitura che “In alcuni casi i sintomi di disfunzione sessuale sono persistiti in seguito all’interruzione del trattamento”.
 
-# SINTOMATOLOGIA
+## SINTOMATOLOGIA
 
 La PSSD può presentarsi come una continuazione di effetti collaterali sessuali cominciati durante il trattamento, o anche insorgere, o peggiorare, al momento della sospensione.
 
@@ -41,11 +36,11 @@ I sintomi sessuali più comuni di PSSD sono:
 * disfunzioni cognitive;
 * disturbi sensoriali.
 
-# EZIOLOGIA
+## EZIOLOGIA
 
 Diverse ipotesi sono state formulate, specialmente a partire dai vari meccanismi già osservati implicati negli effetti collaterali sessuali durante l’uso di antidepressivi.
 
-**Ipotesi sui meccanismi alla base delle disfunzioni sessuali indotte da antidepressivi serotoninergici**
+### Ipotesi sui meccanismi alla base delle disfunzioni sessuali indotte da antidepressivi serotoninergici
 
 Tra i meccanismi vi sono alterazioni neuroendocrine indotte dagli SSRI, come aumento della serotonina e della prolattina, blocco dei recettori α1-adrenergici, diminuzione di dopamina, testosterone e ossitocina e riduzione della sintesi di ossido nitrico.
 
@@ -55,13 +50,13 @@ Ben-Sheetrit et al. hanno ipotizzato che anche la neurotossicità serotoninergic
 
 Altri meccanismi implicati negli effetti collaterali sessuali degli antidepressivi serotoninergici sono l’interazione serotonina-dopamina, effetti sulla proopiomelanocortina e melanocortina, disregolazione dell’asse ipotalamo-ipofisi-testicolo.
 
-**Ipotesi dell’alterazione epigenetica**
+#### Ipotesi dell’alterazione epigenetica
 
 Il recettore 5-HT1A è il recettore della serotonina più diffuso nel sistema nervoso. Esso agisce soprattutto come autorecettore con funzioni di feedback, diminuendo il rilascio di serotonina quando questa risulta troppo elevata. Si ritiene che affinché i farmaci antidepressivi possano espletare il loro effetto serotoninergico, l’autorecettore debba desensibilizzarsi interrompendo così il meccanismo di feedback. Ciò spiegherebbe la latenza di circa 2 settimane tra la prima assunzione del farmaco e l’effetto antidepressivo dello stesso. La desensibilizzazione e sottoregolazione di 5-HT1A sono coinvolte nella regolazione della risposta sessuale, inibendo la funzione sessuale e la trasmissione dopaminergica, responsabile, tra le tante cose, delle sensazioni edoniche.
 
 Csoka et al. hanno ipotizzato che i recettori 5-HT1A possano rimanere desensibilizzati e sottoregolati in modo persistente ad opera di alterazioni nell’espressione genica, in seguito ad un’esposizione cronica a SSRI ed hanno successivamente condotto uno studio sulla metilazione del DNA indotta da uno SSRI.
 
-# DIAGNOSI
+## DIAGNOSI
 
 Sebbene la capacità di diagnosticare gli effetti avversi dovrebbe far parte delle competenze di qualsiasi prescrittore, il fatto che queste condizioni possono persistere o emergere dopo la sospensione del farmaco responsabile aggiunge un ulteriore livello di complessità. Inoltre, queste condizioni sono poco conosciute e poco comprese dagli operatori sanitari.
 
@@ -76,6 +71,6 @@ Esso fornisce criteri diagnostici per:
 * sindrome post-finasteride (PFS)
 * disfunzione sessuale post-retinoide (PRSD)
 
-## **La PSSD, al momento, rimane senza una cura.**
+## La PSSD, al momento, rimane senza una cura
 
-### **Grazie alle segnalazioni degli effetti collaterali persistenti alle Agenzie di Farmacovigilanza in tutto in mondo da parte di un numero sempre crescente di uomini e donne, la comunità medica e scientifica sta iniziando a prendere consapevolezza della portata del problema.**
+**Grazie alle segnalazioni degli effetti collaterali persistenti alle [Agenzie di Farmacovigilanza](../risorse/organismi.md) in tutto in mondo da parte di un numero sempre crescente di uomini e donne, la comunità medica e scientifica sta iniziando a prendere consapevolezza della portata del problema.**
