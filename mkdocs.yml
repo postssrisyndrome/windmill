@@ -2,6 +2,7 @@ site_name: Post-SSRI Syndrome
 site_url: https://postssrisyndrome.github.io
 theme:
   name: mkdocs
+  locale: it
   nav_style: light
 nav:
   - News: news.md
