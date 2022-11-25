@@ -1,2 +1,35 @@
 site_name: Post-SSRI Syndrome
 site_url: https://postssrisyndrome.github.io
+nav:
+  - News:
+    - news/pubblicati-i-criteri-diagnostici-per-la-pssd-e-altre-condizioni-persistenti.md
+    - "Melcangi: la ricerca sulla PSSD entra nella terza fase": news/melcangi-la-ricerca-sulla-pssd-entra-nella-terza-fase.md
+    - news/melcangi-completato-il-primo-studio-sulla-sospensione-di-paroxetina.md
+    - news/addio-marchino.md
+    - news/melcangi-aperto-un-fundraising-per-contribuire-alla-ricerca-sulla-pssd.md
+    - news/le-storie-di-pssd-raccolte-per-la-campagna-di-consapevolezza.md
+    - news/campagna-di-consapevolezza-sulla-disfunzione-sessuale-post-ssri-pssd.md
+    - news/melcangi-il-primo-studio-sulla-pssd-e-in-corso.md
+    - "Istituto Mario Negri pianifica studio su Disfunzione Sessuale Post-SSRI/SNRI": news/istituto-mario-negri-pianifica-studio-su-disfunzione-sessuale-post-ssri-snri.md
+    - news/ema-esamina-il-problema-della-pssd.md
+    - news/ema-interroga-le-case-farmaceutiche-di-ssri-e-snri.md
+    - news/ema-nuova-raccomandazione-sulle-disfunzioni-sessuali-persistenti-da-ssri-ed-snri.md
+  - "La sindrome":
+    - la-sindrome/caratteristiche.md
+    - "Quanto è comune?": la-sindrome/prevalenza.md
+    - la-sindrome/farmaci.md
+    - la-sindrome/criteri-diagnostici.md
+    - la-sindrome/storie.md
+  - Ricerca:
+    - "Ricerca in corso": ricerca/ricerca-in-corso.md
+    - ricerca/pubblicazioni.md
+    - "Aiutare la ricerca": https://www.gofundme.com/f/27l8qmes5c
+  - Media:
+    - media/articoli.md
+    - "Divulgazione medica": media/medici.md
+    - media/video.md
+  - Risorse:
+    - risorse/organismi.md
+    - Forum: https://www.pssdforum.org
+    - risorse/links.md
+  - Donazioni: https://www.gofundme.com/f/27l8qmes5c
