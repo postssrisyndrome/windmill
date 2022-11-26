@@ -1,8 +1,4 @@
----
-title: Farmaci
----
-
-# Farmaci che possono causare una disfunzione sessuale permanente
+# Farmaci serotoninergici che possono causare una disfunzione sessuale permanente
 
 ## Farmaci SSRI (_selective serotonin reuptake inhibitors_)
 
@@ -36,10 +32,10 @@ La **paroxetina,** commercializzato come **Sereupin, Seroxat** o **Paxil,** è u
 
 ### Venlafaxina
 
-La **venlafaxina**, conosciuta con i nomi commerciali **Efexor**, **Faxine**, **Zarelis**, è un farmaco introdotto sul mercato dal 1993 appartenente alla classe degli SNRI utilizzato come trattamento di diversi disturbi psichiatrici (depressione maggiore, ansia generalizzata, attacchi di panico, fobia sociale) ma anche condizioni non prettamente psichiatriche come neuropatia diabetica, prevenzione dell’emicrania, vampate di calore in donne in menopausa o uomini nell’ambito della terapia del tumore prostatico.
+La **venlafaxina**, conosciuta con i nomi commerciali **Efexor**, **Faxine**, **Zarelis**, è un farmaco introdotto sul mercato dal 1993 appartenente alla classe degli SNRI, utilizzato come trattamento di diversi disturbi psichiatrici (depressione maggiore, ansia generalizzata, attacchi di panico, fobia sociale), ma anche condizioni non prettamente psichiatriche come neuropatia diabetica, prevenzione dell’emicrania, vampate di calore in donne in menopausa o uomini nell’ambito della terapia del tumore prostatico.
 
 ### Duloxetina
 
 La **duloxetina** è il principio attivo di un antidepressivo appartenente alla classe degli SNRI commercializzato con i nomi di **Cymbalta** e **Xeristar.**
 
-Viene utilizzizato per il trattamento del disturbo depressivo maggiore, il disturbo d’ansia generalizzato, la fibromialgia e il dolore neuropatico.
+Viene utilizzato per il trattamento del disturbo depressivo maggiore, il disturbo d’ansia generalizzato, la fibromialgia e il dolore neuropatico.
