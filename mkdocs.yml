@@ -17,8 +17,8 @@ nav:
     - ricerca/pubblicazioni.md
     - "Aiutare la ricerca": https://www.gofundme.com/f/27l8qmes5c
   - Media:
-    - media/articoli.md
     - "Divulgazione medica": media/medici.md
+    - media/articoli.md
     - media/video.md
   - Risorse:
     - risorse/organismi.md
