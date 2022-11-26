@@ -4,8 +4,14 @@ Questa pagina raccoglie alcuni articoli divulgativi sulla disfunzione sessuale p
 
 ## Pagine di informazione medica
 
+* [Antidepressants and Sex Drive: Sexual Side Effects of SSRIs | Priority Men's Medical](https://prioritymensmedical.com/blog/antidepressants-sex-drive-sexual-side-effects-of-ssris/)
+    * 2022-06 | Has your interest in sex gone down the drain the moment you’ve treated your depression? You’re not alone. Millions of people are struggling with the same problem. And for these folks, there’s one underlying source of the issue—SSRI medication.
 * [Is Erectile Dysfunction Caused by Antidepressants Permanent? | Verywell Health](https://www.verywellhealth.com/post-ssri-erectile-dysfunction-5218272)
     * 2022-03 | Sexual side effects-including anorgasmia (failure to have an orgasm), genital anesthesia, low libido (low desire to have sex), and erectile dysfunction (ED)-are very common among patients who take selective serotonin reuptake inhibitors (SSRIs). Commonly prescribed SSRI antidepressants include Zoloft (sertraline) and Prozac (fluoxetine).
+* [Disfunzione sessuale post-SSRI: due studi italiani per scoprirne l’eziologia | Osservatorio Malattie Rare](https://www.osservatoriomalattierare.it/news/ricerca-scientifica/18309-disfunzione-sessuale-post-ssri-due-studi-italiani-per-scoprirne-l-eziologia)
+    * 2022-02 | L’Università di Milano ha valutato il ruolo della paroxetina, mentre l’Università di Firenze ha descritto le caratteristiche demografiche e cliniche associate alla patologia.
+* [Disfunzioni sessuali correlate a farmaci: individuati i criteri diagnostici | Osservatorio Malattie Rare](https://www.osservatoriomalattierare.it/news/ricerca-scientifica/18319-disfunzioni-sessuali-correlate-a-farmaci-individuati-i-criteri-diagnostici)
+    * 2022-02 | Le indicazioni sono state recentemente elaborate da un gruppo internazionale di esperti per agevolare l’identificazione di quattro rare patologie iatrogene poco note.
 * [I farmaci antidepressivi possono causare disfunzione sessuale | Socialfarma](https://www.socialfarma.it/i-farmaci-antidepressivi-possono-causare-disfunzione-sessuale/)
     * 2020-09 | Un'approfondita revisione della letteratura scientifica ha ufficialmente riconosciuto l'esistenza di una nuova condizione prodotta dal trattamento con antidepressivi SSRI (inibitori selettivi della ricaptazione della serotonina) e SNRI (inibitori dela ricaptazione della serotonina e della norepinefrina) chiamata "Disfunzione sessuale post SSRI/SNRI ".
 * [Doctors urged to recognize post-antidepressant sexual dysfunction | Eurekalert](https://www.eurekalert.org/pub_releases/2020-01/s-dut012320.php)
