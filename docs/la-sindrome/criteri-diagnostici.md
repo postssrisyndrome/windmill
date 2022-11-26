@@ -396,174 +396,88 @@ Nessuno da segnalare.
 
 ## Riferimenti
 
-\[1\]
+\[1\] Healy D, Le Noury J, Mangin D. Enduring sexual dysfunction after treatment with antidepressants, 5α-reductase inhibitors and isotretinoin: 300 cases. Int J Risk Saf Med. 2018;29(3–4):125–34.
 
-Healy D, Le Noury J, Mangin D. Enduring sexual dysfunction after treatment with antidepressants, 5α-reductase inhibitors and isotretinoin: 300 cases. Int J Risk Saf Med. 2018;29(3–4):125–34.
+\[2\] Leiblum SR, Nathan SG. Persistent sexual arousal syndrome. A newly discovered pattern of female sexuality. J Sex Marital Ther. 2001;27(4):365–80.
 
-\[2\]
+\[3\] Csoka AB, Shipko S. Persistent sexual side effects after SSRI discontinuation. Psychother Psychosom. 2006;75(3):187–88.
 
-Leiblum SR, Nathan SG. Persistent sexual arousal syndrome. A newly discovered pattern of female sexuality. J Sex Marital Ther. 2001;27(4):365–80.
+\[4\] Bahrick AS. Post SSRI sexual dysfunction. American Society for the Advancement of Pharmacotherapy Tablet. 2006;7(3):2–3, 10–11.
 
-\[3\]
+\[5\] Irwig MS, Kolukula S. Persistent sexual side effects of finasteride for male pattern hair loss. J Sex Med. 2011;8(6):1747–53.
 
-Csoka AB, Shipko S. Persistent sexual side effects after SSRI discontinuation. Psychother Psychosom. 2006;75(3):187–88.
+\[6\] Hogan C, Le Noury J, Healy D, Mangin D. One hundred and twenty cases of enduring sexual dysfunction following treatment. Int J Risk Saf Med. 2014;26(2):109–16.
 
-\[4\]
+\[7\] Communication from MHRA to Kevin Bennett, forwarded to David Healy.
 
-Bahrick AS. Post SSRI sexual dysfunction. American Society for the Advancement of Pharmacotherapy Tablet. 2006;7(3):2–3, 10–11.
+\[8\] SmithKline Beecham. 1986. HP/85/33/A. A study of paroxetine pharmacokinetics.
 
-\[5\]
+\[9\] Montejo AL, Llorca G, Izquierdo JA, Carrasco JL, Daniel E, Pérez-Sola V Disfunción sexual con antidepresivos. Efecto del cambio a amineptino en pacientes con disfunción sexual secundaria a ISRS \[Sexual dysfunction with antidepressive agents. Effect of the change to amineptine in patients with sexual dysfunction secondary to SSRI\]. Actas Esp Psiquiatr. 1999;27(1):23–34.
 
-Irwig MS, Kolukula S. Persistent sexual side effects of finasteride for male pattern hair loss. J Sex Med. 2011;8(6):1747–53.
+\[10\] Safarinejad MR, Hosseini SY. Safety and efficacy of citalopram in the treatment of premature ejaculation: A double-blind placebo-controlled, fixed dose, randomized study. Int J Impot Res. 2006;18(2):164–69.
 
-\[6\]
+\[11\] Arafa M, Shamloul R. Efficacy of sertraline hydrochloride in treatment of premature ejaculation: A placebo-controlled study using a validated questionnaire. Int J Impot Res. 2006;18(6):534–38.
 
-Hogan C, Le Noury J, Healy D, Mangin D. One hundred and twenty cases of enduring sexual dysfunction following treatment. Int J Risk Saf Med. 2014;26(2):109–16.
+\[12\] Safarinejad MR. Safety and efficacy of escitalopram in the treatment of premature ejaculation: A double-blind, placebo-controlled, fixed-dose, randomized study. J Clin Psychopharmacol. 2007;27(5):444–50.
 
-\[7\]
+\[13\] Tanrikut C, Feldman AS, Altemus M, Paduch DA, Schlegel PN. Adverse effect of paroxetine on sperm. Fertil Steril. 2010;94(3):1021–26.
 
-Communication from MHRA to Kevin Bennett, forwarded to David Healy.
+\[14\] Healy D, Le Noury J, Mangin D. Post-SSRI sexual dysfunction: Patient experiences of engagement with healthcare professionals. Int J Risk Saf Med. 2019;30(3):167–78.
 
-\[8\]
+\[15\] Healy D. Citizen petition: Sexual side effects of SSRIs and SNRIs. Int J Risk Saf Med. 2018;29(3-4):135–47.
 
-SmithKline Beecham. 1986. HP/85/33/A. A study of paroxetine pharmacokinetics.
+\[16\] Csoka AB, Bahrick A, Mehtonen OP. Persistent sexual dysfunction after discontinuation of selective serotonin reuptake inhibitors. J Sex Med. 2008;5(1):227–33.
 
-\[9\]
+\[17\] The Netherlands Pharmacovigilance Centre Lareb. SSRIs and persistent sexual dysfunction. 2012. Available from: [https://databankws.lareb.nl/downloads/KWB_2012_3_SSRI.pdf.](https://databankws.lareb.nl/downloads/KWB_2012_3_SSRI.pdf. "https://databankws.lareb.nl/downloads/KWB_2012_3_SSRI.pdf.")
 
-Montejo AL, Llorca G, Izquierdo JA, Carrasco JL, Daniel E, Pérez-Sola V Disfunción sexual con antidepresivos. Efecto del cambio a amineptino en pacientes con disfunción sexual secundaria a ISRS \[Sexual dysfunction with antidepressive agents. Effect of the change to amineptine in patients with sexual dysfunction secondary to SSRI\]. Actas Esp Psiquiatr. 1999;27(1):23–34.
+\[18\] Muquebil Ali Al Shaban Rodríguez OW, Álvarez de Morales Gómez-Moreno E, Fernández Fernández J, Fresno García C, del Mar Fernández Fernández M. Disfunción sexual persistente tras el tratamiento con inhibidores selectivos de la recaptación de serotonina: A propósito de un caso tras la retirada de paroxetina. Psiquiatría Biológica. 2017;24(2):70–72.
 
-\[10\]
+\[19\] Calabrò RS, De Luca R, Manuli A, Portaro S, Naro A, Quattrini F. Towards improving post-SSRI sexual dysfunction by using nutriceuticals: Lessons from a case study. J Sex Marital Ther. 2019;45(6):562–65.
 
-Safarinejad MR, Hosseini SY. Safety and efficacy of citalopram in the treatment of premature ejaculation: A double-blind placebo-controlled, fixed dose, randomized study. Int J Impot Res. 2006;18(2):164–69.
+\[20\] Reisman Y. Post-SSRI sexual dysfunction. BMJ. 2020;368:m754.
 
-\[11\]
+\[21\] Healy D, Mangin D, Lochhead J. Development and persistence of patient-reported visual problems associated with serotonin reuptake inhibiting antidepressants. Int J Risk Saf Med. 2021. doi:10.3233/JRS-210018.
 
-Arafa M, Shamloul R. Efficacy of sertraline hydrochloride in treatment of premature ejaculation: A placebo-controlled study using a validated questionnaire. Int J Impot Res. 2006;18(6):534–38.
+\[22\] Kauffman RP, Murdock A. Prolonged post-treatment genital anesthesia and sexual dysfunction following discontinuation of citalopram and the atypical antidepressant nefazodone. The Open Women’ Health Journal. 2007;1:1–3.
 
-\[12\]
+\[23\] Waldinger MD, van Coevorden RS, Schweitzer DH, Georgiadis J. Penile anesthesia in post SSRI sexual dysfunction (PSSD) responds to low-power laser irradiation: A case study and hypothesis about the role of transient receptor potential (TRP) ion channels. Eur J Pharmacol. 2015;753:263–68.
 
-Safarinejad MR. Safety and efficacy of escitalopram in the treatment of premature ejaculation: A double-blind, placebo-controlled, fixed-dose, randomized study. J Clin Psychopharmacol. 2007;27(5):444–50.
+\[24\] Waraich A, Clemons C, Ramirez R, Yih J, Goldstein S, Goldstein I. Post-SSRI sexual dysfunction (PSSD): Ten year retrospective chart review. J Urol. 2020;203:e1179.
 
-\[13\]
+\[25\] Khera M, Than JK, Anaissie J, Antar A, Song W, Losso B Penile vascular abnormalities in young men with persistent side effects after finasteride use for the treatment of androgenic alopecia. Transl Androl Urol. 2020;9(3):1201–09.
 
-Tanrikut C, Feldman AS, Altemus M, Paduch DA, Schlegel PN. Adverse effect of paroxetine on sperm. Fertil Steril. 2010;94(3):1021–26.
+\[26\] Goldstein I, Komisaruk BR, Pukall CF, Kim NN, Goldstein AT, Goldstein SW International society for the study of Women’s sexual health (ISSWSH) review of epidemiology and pathophysiology, and a consensus nomenclature and process of care for the management of persistent genital arousal disorder/genito-pelvic dysesthesia (PGAD/GPD). J Sex Med. 2021;18(4):665–97.
 
-\[14\]
+\[27\] Freed L. Persistent sexual arousal syndrome. J Sex Med. 2005;2:743.
 
-Healy D, Le Noury J, Mangin D. Post-SSRI sexual dysfunction: Patient experiences of engagement with healthcare professionals. Int J Risk Saf Med. 2019;30(3):167–78.
+\[28\] Leiblum SR, Goldmeier D. Persistent genital arousal disorder in women: Case reports of association with anti-depressant usage and withdrawal. J Sex Marital Ther. 2008;34(2):150–59.
 
-\[15\]
+\[29\] Eibye S, Jensen HM. Persistent genital arousal disorder: Confluent patient history of agitated depression, paroxetine cessation, and a tarlov cyst. Case Rep Psychiatry. 2014;2014:529052.
 
-Healy D. Citizen petition: Sexual side effects of SSRIs and SNRIs. Int J Risk Saf Med. 2018;29(3-4):135–47.
+\[30\] de Magalhães FJ, Kumar MT. Persistent genital arousal disorder following selective serotonin reuptake inhibitor cessation. J Clin Psychopharmacol. 2015;35(3):352–4.
 
-\[16\]
+\[31\] Adson DE, Kotlyar M. Premature ejaculation associated with citalopram withdrawal. Ann Pharmacother. 2003;37(12):1804–06.
 
-Csoka AB, Bahrick A, Mehtonen OP. Persistent sexual dysfunction after discontinuation of selective serotonin reuptake inhibitors. J Sex Med. 2008;5(1):227–33.
+\[32\] Giatti S, Diviccaro S, Panzica G, Melcangi RC. Post-finasteride syndrome and post-SSRI sexual dysfunction: two sides of the same coin? Endocrine. 2018;61(2):180–93.
 
-\[17\]
+\[33\] FDA. Questions and answers: Finasteride label changes. Available from: [https://wayback.archive-it.org/7993/20170723090425/https://www.fda.gov/Drugs/DrugSafety/InformationbyDrugClass/ucm299754.htm.](https://wayback.archive-it.org/7993/20170723090425/https://www.fda.gov/Drugs/DrugSafety/InformationbyDrugClass/ucm299754.htm. "https://wayback.archive-it.org/7993/20170723090425/https://www.fda.gov/Drugs/DrugSafety/InformationbyDrugClass/ucm299754.htm.")
 
-The Netherlands Pharmacovigilance Centre Lareb. SSRIs and persistent sexual dysfunction. 2012. Available from: [https://databankws.lareb.nl/downloads/KWB_2012_3_SSRI.pdf.](https://databankws.lareb.nl/downloads/KWB_2012_3_SSRI.pdf. "https://databankws.lareb.nl/downloads/KWB_2012_3_SSRI.pdf.")
+\[34\] Melcangi RC, Santi D, Spezzano R, Grimoldi M, Tabacchi T, Fusco ML Neuroactive steroid levels and psychiatric and andrological features in post-finasteride patients. J Steroid Biochem Mol Biol. 2017;171:229–35.
 
-\[18\]
+\[35\] Melcangi RC, Casarini L, Marino M, Santi D, Sperduti S, Giatti S Altered methylation pattern of the SRD5A2 gene in the cerebrospinal fluid of post-finasteride patients: A pilot study. Endocr Connect. 2019;8(8):1118–25.
 
-Muquebil Ali Al Shaban Rodríguez OW, Álvarez de Morales Gómez-Moreno E, Fernández Fernández J, Fresno García C, del Mar Fernández Fernández M. Disfunción sexual persistente tras el tratamiento con inhibidores selectivos de la recaptación de serotonina: A propósito de un caso tras la retirada de paroxetina. Psiquiatría Biológica. 2017;24(2):70–72.
+\[36\] Borgo F, Macandog AD, Diviccaro S, Falvo E, Giatti S, Cavaletti G Alterations of gut microbiota composition in post-finasteride patients: A pilot study. J Endocrinol Invest. 2021;44(6):1263–73.
 
-\[19\]
+\[37\] Coleman R, MacDonald D. Effects of isotretinoin on male reproductive system. Lancet. 1994;344(8916)198.
 
-Calabrò RS, De Luca R, Manuli A, Portaro S, Naro A, Quattrini F. Towards improving post-SSRI sexual dysfunction by using nutriceuticals: Lessons from a case study. J Sex Marital Ther. 2019;45(6):562–65.
+\[38\] Tirado Sánchez A, León Dorantes G. Disfunción eréctil durante el tratamiento con isotretinoína \[Erectile dysfunction during isotretinoin therapy\]. Actas Urol Esp. 2005;29(10):974–6.
 
-\[20\]
+\[39\] Health Canada. Summary safety review — oral retinoid products — assessing the potential risk of impotence (erectile dysfunction). Available from: [https://www.canada.ca/en/health-canada/services/drugs-health-products/medeffect-canada/safety-reviews/summary-safety-review-oral-retinoid-products-assessing-potential-risk-erectile-dysfunction.html.](https://www.canada.ca/en/health-canada/services/drugs-health-products/medeffect-canada/safety-reviews/summary-safety-review-oral-retinoid-products-assessing-potential-risk-erectile-dysfunction.html. "https://www.canada.ca/en/health-canada/services/drugs-health-products/medeffect-canada/safety-reviews/summary-safety-review-oral-retinoid-products-assessing-potential-risk-erectile-dysfunction.html.")
 
-Reisman Y. Post-SSRI sexual dysfunction. BMJ. 2020;368:m754.
+\[40\] GOV.UK. Isotretinoin (Roaccutane): rare reports of erectile dysfunction and decreased libido. Available from: [https://www.gov.uk/drug-safety-update/isotretinoin-roaccutane-rare-reports-of-erectile-dysfunction-and-decreased-libido.](https://www.gov.uk/drug-safety-update/isotretinoin-roaccutane-rare-reports-of-erectile-dysfunction-and-decreased-libido. "https://www.gov.uk/drug-safety-update/isotretinoin-roaccutane-rare-reports-of-erectile-dysfunction-and-decreased-libido.")
 
-\[21\]
+\[41\] The Netherlands Pharmacovigilance Centre Lareb. Isotretinoin and erectile dysfunction. 2015. Available from: [https://databankws.lareb.nl/Downloads/KWB_2015_2_isotr.pdf.](https://databankws.lareb.nl/Downloads/KWB_2015_2_isotr.pdf. "https://databankws.lareb.nl/Downloads/KWB_2015_2_isotr.pdf.")
 
-Healy D, Mangin D, Lochhead J. Development and persistence of patient-reported visual problems associated with serotonin reuptake inhibiting antidepressants. Int J Risk Saf Med. 2021. doi:10.3233/JRS-210018.
+\[42\] Simonsen AL, Danborg PB, Gøtzsche PC. Persistent sexual dysfunction after early exposure to SSRIs: Systematic review of animal studies. Int J Risk Saf Med. 2016;28(1):1–12.
 
-\[22\]
-
-Kauffman RP, Murdock A. Prolonged post-treatment genital anesthesia and sexual dysfunction following discontinuation of citalopram and the atypical antidepressant nefazodone. The Open Women’ Health Journal. 2007;1:1–3.
-
-\[23\]
-
-Waldinger MD, van Coevorden RS, Schweitzer DH, Georgiadis J. Penile anesthesia in post SSRI sexual dysfunction (PSSD) responds to low-power laser irradiation: A case study and hypothesis about the role of transient receptor potential (TRP) ion channels. Eur J Pharmacol. 2015;753:263–68.
-
-\[24\]
-
-Waraich A, Clemons C, Ramirez R, Yih J, Goldstein S, Goldstein I. Post-SSRI sexual dysfunction (PSSD): Ten year retrospective chart review. J Urol. 2020;203:e1179.
-
-\[25\]
-
-Khera M, Than JK, Anaissie J, Antar A, Song W, Losso B Penile vascular abnormalities in young men with persistent side effects after finasteride use for the treatment of androgenic alopecia. Transl Androl Urol. 2020;9(3):1201–09.
-
-\[26\]
-
-Goldstein I, Komisaruk BR, Pukall CF, Kim NN, Goldstein AT, Goldstein SW International society for the study of Women’s sexual health (ISSWSH) review of epidemiology and pathophysiology, and a consensus nomenclature and process of care for the management of persistent genital arousal disorder/genito-pelvic dysesthesia (PGAD/GPD). J Sex Med. 2021;18(4):665–97.
-
-\[27\]
-
-Freed L. Persistent sexual arousal syndrome. J Sex Med. 2005;2:743.
-
-\[28\]
-
-Leiblum SR, Goldmeier D. Persistent genital arousal disorder in women: Case reports of association with anti-depressant usage and withdrawal. J Sex Marital Ther. 2008;34(2):150–59.
-
-\[29\]
-
-Eibye S, Jensen HM. Persistent genital arousal disorder: Confluent patient history of agitated depression, paroxetine cessation, and a tarlov cyst. Case Rep Psychiatry. 2014;2014:529052.
-
-\[30\]
-
-de Magalhães FJ, Kumar MT. Persistent genital arousal disorder following selective serotonin reuptake inhibitor cessation. J Clin Psychopharmacol. 2015;35(3):352–4.
-
-\[31\]
-
-Adson DE, Kotlyar M. Premature ejaculation associated with citalopram withdrawal. Ann Pharmacother. 2003;37(12):1804–06.
-
-\[32\]
-
-Giatti S, Diviccaro S, Panzica G, Melcangi RC. Post-finasteride syndrome and post-SSRI sexual dysfunction: two sides of the same coin? Endocrine. 2018;61(2):180–93.
-
-\[33\]
-
-FDA. Questions and answers: Finasteride label changes. Available from: [https://wayback.archive-it.org/7993/20170723090425/https://www.fda.gov/Drugs/DrugSafety/InformationbyDrugClass/ucm299754.htm.](https://wayback.archive-it.org/7993/20170723090425/https://www.fda.gov/Drugs/DrugSafety/InformationbyDrugClass/ucm299754.htm. "https://wayback.archive-it.org/7993/20170723090425/https://www.fda.gov/Drugs/DrugSafety/InformationbyDrugClass/ucm299754.htm.")
-
-\[34\]
-
-Melcangi RC, Santi D, Spezzano R, Grimoldi M, Tabacchi T, Fusco ML Neuroactive steroid levels and psychiatric and andrological features in post-finasteride patients. J Steroid Biochem Mol Biol. 2017;171:229–35.
-
-\[35\]
-
-Melcangi RC, Casarini L, Marino M, Santi D, Sperduti S, Giatti S Altered methylation pattern of the SRD5A2 gene in the cerebrospinal fluid of post-finasteride patients: A pilot study. Endocr Connect. 2019;8(8):1118–25.
-
-\[36\]
-
-Borgo F, Macandog AD, Diviccaro S, Falvo E, Giatti S, Cavaletti G Alterations of gut microbiota composition in post-finasteride patients: A pilot study. J Endocrinol Invest. 2021;44(6):1263–73.
-
-\[37\]
-
-Coleman R, MacDonald D. Effects of isotretinoin on male reproductive system. Lancet. 1994;344(8916)198.
-
-\[38\]
-
-Tirado Sánchez A, León Dorantes G. Disfunción eréctil durante el tratamiento con isotretinoína \[Erectile dysfunction during isotretinoin therapy\]. Actas Urol Esp. 2005;29(10):974–6.
-
-\[39\]
-
-Health Canada. Summary safety review — oral retinoid products — assessing the potential risk of impotence (erectile dysfunction). Available from: [https://www.canada.ca/en/health-canada/services/drugs-health-products/medeffect-canada/safety-reviews/summary-safety-review-oral-retinoid-products-assessing-potential-risk-erectile-dysfunction.html.](https://www.canada.ca/en/health-canada/services/drugs-health-products/medeffect-canada/safety-reviews/summary-safety-review-oral-retinoid-products-assessing-potential-risk-erectile-dysfunction.html. "https://www.canada.ca/en/health-canada/services/drugs-health-products/medeffect-canada/safety-reviews/summary-safety-review-oral-retinoid-products-assessing-potential-risk-erectile-dysfunction.html.")
-
-\[40\]
-
-GOV.UK. Isotretinoin (Roaccutane): rare reports of erectile dysfunction and decreased libido. Available from: [https://www.gov.uk/drug-safety-update/isotretinoin-roaccutane-rare-reports-of-erectile-dysfunction-and-decreased-libido.](https://www.gov.uk/drug-safety-update/isotretinoin-roaccutane-rare-reports-of-erectile-dysfunction-and-decreased-libido. "https://www.gov.uk/drug-safety-update/isotretinoin-roaccutane-rare-reports-of-erectile-dysfunction-and-decreased-libido.")
-
-\[41\]
-
-The Netherlands Pharmacovigilance Centre Lareb. Isotretinoin and erectile dysfunction. 2015. Available from: [https://databankws.lareb.nl/Downloads/KWB_2015_2_isotr.pdf.](https://databankws.lareb.nl/Downloads/KWB_2015_2_isotr.pdf. "https://databankws.lareb.nl/Downloads/KWB_2015_2_isotr.pdf.")
-
-\[42\]
-
-Simonsen AL, Danborg PB, Gøtzsche PC. Persistent sexual dysfunction after early exposure to SSRIs: Systematic review of animal studies. Int J Risk Saf Med. 2016;28(1):1–12.
-
-\[43\]
-
-Lorenz TK. Antidepressant use during development may impair Women’s sexual desire in adulthood. J Sex Med. 2020;17(3):470–6.
+\[43\] Lorenz TK. Antidepressant use during development may impair Women’s sexual desire in adulthood. J Sex Med. 2020;17(3):470–6.
