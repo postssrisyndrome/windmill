@@ -1,10 +1,8 @@
 ---
-slug: prevalence
 title: Prevalenza
-sidebar_label: Prevalenza
-
 ---
-[Quanto è comune la disfunzione sessuale post-SSRI (PSSD)?](https://rxisk.org/how-common-is-post-ssri-sexual-dysfunction-pssd/)
+
+# [Quanto è comune la disfunzione sessuale post-SSRI (PSSD)?](https://rxisk.org/how-common-is-post-ssri-sexual-dysfunction-pssd/)
 
 (Questa è la versione italiana dell’[articolo originale inglese](https://rxisk.org/how-common-is-post-ssri-sexual-dysfunction-pssd/ "How Common is Post-SSRI Sexual Dysfunction (PSSD)?"))
 
@@ -138,32 +136,32 @@ La domanda originale era: quanto è comune la disfunzione sessuale post-SSRI? Qu
 
 Forse la vera domanda è:
 
-Chiunque prenda un SSRI o un SNRI riacquista effettivamente il 100% della sua funzione sessuale originale e delle sensazioni, o rimane quasi sempre con un certo grado di alterazione a lungo termine?
+**Chiunque prenda un SSRI o un SNRI riacquista effettivamente il 100% della sua funzione sessuale originale e delle sensazioni, o rimane quasi sempre con un certo grado di alterazione a lungo termine?**
 
 ## Bibliografia
 
-1\. Yilmaz U, Tatlişen A, Turan H, Arman F, Ekmekçioğlu O. [The effects of fluoxetine on several neurophysiological variables in patients with premature ejaculation](https://www.ncbi.nlm.nih.gov/pubmed/10037380). J Urol. 1999 Jan;161(1):107-11. PMID 10037380.
+\[1\] Yilmaz U, Tatlişen A, Turan H, Arman F, Ekmekçioğlu O. [The effects of fluoxetine on several neurophysiological variables in patients with premature ejaculation](https://www.ncbi.nlm.nih.gov/pubmed/10037380). J Urol. 1999 Jan;161(1):107-11. PMID 10037380.
 
-2\. Colpi GM, Fanciullacci F, Aydos K, Grugnetti C. [Effectiveness mechanism of chlomipramine by neurophysiological tests in subjects with true premature ejaculation](https://www.ncbi.nlm.nih.gov/pubmed/1897755). Andrologia. 1991 Jan-Feb;23(1):45-7. PMID 1897755.
+\[2\] Colpi GM, Fanciullacci F, Aydos K, Grugnetti C. [Effectiveness mechanism of chlomipramine by neurophysiological tests in subjects with true premature ejaculation](https://www.ncbi.nlm.nih.gov/pubmed/1897755). Andrologia. 1991 Jan-Feb;23(1):45-7. PMID 1897755.
 
-3\. Neill JR. [Penile anesthesia associated with fluoxetine use](https://www.ncbi.nlm.nih.gov/pubmed/1928483). Am J Psychiatry. 1991;148:1603. PMID 1928483.
+\[3\] Neill JR. [Penile anesthesia associated with fluoxetine use](https://www.ncbi.nlm.nih.gov/pubmed/1928483). Am J Psychiatry. 1991;148:1603. PMID 1928483.
 
-4\. Measom MO. [Penile anaesthesia and fluoxetine](https://www.ncbi.nlm.nih.gov/pubmed/1575264). Am J Psychiatry. 1992;149:709. PMID 1575264.
+\[4\] Measom MO. [Penile anaesthesia and fluoxetine](https://www.ncbi.nlm.nih.gov/pubmed/1575264). Am J Psychiatry. 1992;149:709. PMID 1575264.
 
-5\. King VL, Jr, Horowitz IR. [Vaginal anesthesia associated with fluoxetine use](https://www.ncbi.nlm.nih.gov/pubmed/8494083). Am J Psychiatry. 1993;150:984–5. PMID 8494083.
+\[5\] King VL, Jr, Horowitz IR. [Vaginal anesthesia associated with fluoxetine use](https://www.ncbi.nlm.nih.gov/pubmed/8494083). Am J Psychiatry. 1993;150:984–5. PMID 8494083.
 
-6\. Ellison JM, DeLuca P. [Fluoxetine-induced genital anesthesia relieved by Ginkgo biloba extract](https://www.ncbi.nlm.nih.gov/pubmed/9590676). J Clin Psychiatry. 1998;59:199–200. PMID 9590676.
+\[6\] Ellison JM, DeLuca P. [Fluoxetine-induced genital anesthesia relieved by Ginkgo biloba extract](https://www.ncbi.nlm.nih.gov/pubmed/9590676). J Clin Psychiatry. 1998;59:199–200. PMID 9590676.
 
-7\. Diesenhammer EA, Trawoger R. [Penile anesthesia associated with sertraline use](https://www.ncbi.nlm.nih.gov/pubmed/10665639). J Clin Psychiatry. 1999;60:869–70. PMID 10665639.
+\[7\] Diesenhammer EA, Trawoger R. [Penile anesthesia associated with sertraline use](https://www.ncbi.nlm.nih.gov/pubmed/10665639). J Clin Psychiatry. 1999;60:869–70. PMID 10665639.
 
-8\. Michael A, Mayer C. [Fluoxetine-induced anaesthesia of vagina and nipples](https://www.ncbi.nlm.nih.gov/pubmed/10755087). Br J Psychiatry. 2000;176:299. PMID 10755087.
+\[8\] Michael A, Mayer C. [Fluoxetine-induced anaesthesia of vagina and nipples](https://www.ncbi.nlm.nih.gov/pubmed/10755087). Br J Psychiatry. 2000;176:299. PMID 10755087.
 
-9\. Michael A, Andrews S. [Paroxetine-induced vaginal anaesthesia](https://www.ncbi.nlm.nih.gov/pubmed/12163985). Pharmacopsychiatry. 2002;35:150–1. PMID 12163985.
+\[9\] Michael A, Andrews S. [Paroxetine-induced vaginal anaesthesia](https://www.ncbi.nlm.nih.gov/pubmed/12163985). Pharmacopsychiatry. 2002;35:150–1. PMID 12163985.
 
-10\. Safarinejad MR, Hosseini SY (2006). [Safety and efficacy of citalopram in the treatment of premature ejaculation: a double-blind placebo-controlled, fixed dose, randomized study](https://www.ncbi.nlm.nih.gov/pubmed/16107866). Int J Impot Res. 18: 164–9. PMID 16107866.
+\[10\] Safarinejad MR, Hosseini SY (2006). [Safety and efficacy of citalopram in the treatment of premature ejaculation: a double-blind placebo-controlled, fixed dose, randomized study](https://www.ncbi.nlm.nih.gov/pubmed/16107866). Int J Impot Res. 18: 164–9. PMID 16107866.
 
-11\. Arafa M, Shamloul R (2006). [Efficacy of sertraline hydrochloride in treatment of premature ejaculation: a placebo-controlled study using a validated questionnaire](https://www.ncbi.nlm.nih.gov/pubmed/16554853). Int J Impot Res. 18 (6): 534–8. PMID 16554853.
+\[11\] Arafa M, Shamloul R (2006). [Efficacy of sertraline hydrochloride in treatment of premature ejaculation: a placebo-controlled study using a validated questionnaire](https://www.ncbi.nlm.nih.gov/pubmed/16554853). Int J Impot Res. 18 (6): 534–8. PMID 16554853.
 
-12\. Safarinejad MR (October 2007). [Safety and efficacy of escitalopram in the treatment of premature ejaculation: a double-blind, placebo-controlled, fixed-dose, randomized study](https://www.ncbi.nlm.nih.gov/pubmed/17873675). J Clin Psychopharmacol 27 (5): 444–50. PMID 17873675.
+\[12\] Safarinejad MR (October 2007). [Safety and efficacy of escitalopram in the treatment of premature ejaculation: a double-blind, placebo-controlled, fixed-dose, randomized study](https://www.ncbi.nlm.nih.gov/pubmed/17873675). J Clin Psychopharmacol 27 (5): 444–50. PMID 17873675.
 
-13\. Bahrick AS. [Persistence of sexual dysfunction side effects after discontinuation of antidepressant medications: Emerging evidence](http://benthamopen.com/ABSTRACT/TOPSYJ-1-42). The Open Psychology Journal. 2008;1:42-50. doi:10.2174/1874350100801010042.
+\[13\] Bahrick AS. [Persistence of sexual dysfunction side effects after discontinuation of antidepressant medications: Emerging evidence](http://benthamopen.com/ABSTRACT/TOPSYJ-1-42). The Open Psychology Journal. 2008;1:42-50. doi:10.2174/1874350100801010042.
