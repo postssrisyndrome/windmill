@@ -1,13 +1,14 @@
 ---
-slug: stories
-title: Storie
-sidebar_label: Storie
-
+title: Esperienze di PSSD
+description: Le persone raccontano la loro storia personale di disfunzione sessuale post-SSRI
 ---
-**Storie di PSSD**
 
-Questa pagina raccoglie alcune storie di disfunzione sessuale persistente post-SSRI (PSSD) così come sono state descritte dalle persone che le hanno vissute e le stanno vivendo. Ricordiamo che, anche se alcuni di loro affermano che si tratterebbe di una condizione rara, la letteratura scientifica, tra cui la review sistematica (Bala et al. 2018), riporta chiaramente che la prevalenza è sconosciuta, perché non sono mai stati fatti studi per stimare quanto sia comune. In questo contesto si inserisce il [progetto dell’Istituto Mario Negri](https://postssrisyndrome.org/istituto-di-ricerche-farmacologiche-mario-negri-pianifica-uno-studio-sulla-pssd/). e il recente paper sui [criteri diagnostici](https://postssrisyndrome.org/la-sindrome/criteri-diagnostici/).  
-Per approfondire il tema della probabilità/frequenza della PSSD consigliamo di leggere [Quanto è comune la disfunzione sessuale post-SSRI (PSSD)?](https://postssrisyndrome.org/la-sindrome/quanto-e-comune-la-disfunzione-sessuale-post-ssri-pssd/)
+# Storie di PSSD
+
+Questa pagina raccoglie alcune esperienze personali di disfunzione sessuale persistente post-SSRI (PSSD) così come sono state descritte dalle persone che le hanno vissute e le stanno vivendo.
+
+Ricordiamo che, anche se alcuni di loro ne parlano come di una condizione "rara", la letteratura scientifica, tra cui la review sistematica (Bala et al. 2018), è più prudente, e riporta semplicamente che la prevalenza è *sconosciuta*, senza sbilanciarsi sul fatto che sia rara o comune. Questo è scientificamente corretto, dal momento che non sono mai stati fatti studi di prevalenza per stimare quanto sia frequente. In questo contesto si inserisce il [progetto dell’Istituto Mario Negri](https://postssrisyndrome.org/istituto-di-ricerche-farmacologiche-mario-negri-pianifica-uno-studio-sulla-pssd/) e il recente paper sui [criteri diagnostici](https://postssrisyndrome.org/la-sindrome/criteri-diagnostici/).
+Per approfondire questo problema, consigliamo di leggere l'articolo [Quanto è comune la disfunzione sessuale post-SSRI (PSSD)?](https://postssrisyndrome.org/la-sindrome/quanto-e-comune-la-disfunzione-sessuale-post-ssri-pssd/)
 
 ## [**La storia di Jess, Canada**](https://www.pssdcanada.ca/our-stories/jesss-story)
 
@@ -416,29 +417,29 @@ mi chiamo C.
 
 Ho 25 anni e sono una donna italiana. Scusate il mio linguaggio povero, probabilmente 6 mesi fa avrei scritto un libro ma ora ho difficoltà a scrivere anche la breve storia della mia vita rovinata.
 
-Da dove comincio? Beh, dopo un tragico evento che mi ha portato a soffrire di ansia per 4 anni, ho deciso di prendere un farmaco, il Cipralex.  
-Ero molto titubante nel prenderlo, ci ho pensato così tanto che sono passati anni… anni di sofferenza dove ho rinunciato a fare cose normali, adatte alla mia età. Ho smesso di andare in vacanza, avevo paura anche solo di andare a 30 km da casa mia…  
-Ho smesso di dormire dal mio ragazzo, con il quale sono stata fidanzata per 12 anni, un incubo.  
-Perché dico questo? Perché quello che sto vivendo ora è un inferno, non certo prima!  
-Preferisco stare a casa piuttosto che perdere la mia intimità, la mia intelligenza, il mio amore per qualsiasi cosa.  
-Una volta mi eccitavo al solo guardare negli occhi l’uomo che volevo sposare, l’uomo con cui volevo passare tutta la mia vita. Ora, beh, è come se non avessi ricordi e lui fosse un estraneo. Mi sembra di non riconoscere nemmeno casa, ho perso tutti i legami mentali e fisici.  
-Su consiglio del medico ho iniziato a prendere un antidepressivo, poco sapevo che due settimane dopo quelle quattro pillole mi avrebbero portato via tutto quello per cui ho lottato, tutto quello che ho amato e per cui mi sono battuta.  
-Non provo più piacere nel sesso, sono morta.  
-Tante volte mi giro nel letto e piango, può qualcosa di così intimo e bello diventare il peggiore degli incubi?  
-Ho amnesie, momenti di veri e propri vuoti di memoria… non ricordo nemmeno un piccolo momento gioioso o terribile del passato.  
-Sono vuota.  
-Non ho più la mia intelligenza, amavo tanto la filosofia, ero una romantica, ora sono un pezzo di ghiaccio sia fisicamente che mentalmente.  
-Ma la cosa più traumatica è stata rendersi conto che non provo più niente per niente….  
-Posso piangere ora, 6 mesi dopo la sospensione della droga…ma è tutto ciò che mi rimane…lacrime.  
-A volte penso: quando avrò un figlio mi emozionerò? Mi emozionerò ancora guardando la mia famiglia? Nessuno dovrebbe arrivare a porsi domande del genere.  
-Dirlo non mi sembra vero e credetemi vorrei che lo fosse….  
-Non so cosa fare della mia vita, l’unica cosa che posso fare è sperare di stare meglio e recuperare almeno un po’ della mia personalità che mi è stata strappata da 4 pillole e mezzo.  
-Tante volte mi fermo in macchina in posti sperduti e urlo e piango.  
-È l’unica cosa che mi rimane.  
-Poter urlare il mio dolore sperando che qualcuno da lassù mi senta e faccia un miracolo. Vorrei che i medici informassero i pazienti in modo che i pazienti possano decidere se passare attraverso una roulette russa come questa.  
-Mi hanno derubato dei miei 25 anni, peggio di come ero prima.  
-Ricordo ancora le parole del mio medico “C, prendi questo, regolerà le tue emozioni e potrai tornare a fare qualsiasi cosa”.  
-Mi vengono i brividi quando ci penso.  
+Da dove comincio? Beh, dopo un tragico evento che mi ha portato a soffrire di ansia per 4 anni, ho deciso di prendere un farmaco, il Cipralex.
+Ero molto titubante nel prenderlo, ci ho pensato così tanto che sono passati anni… anni di sofferenza dove ho rinunciato a fare cose normali, adatte alla mia età. Ho smesso di andare in vacanza, avevo paura anche solo di andare a 30 km da casa mia…
+Ho smesso di dormire dal mio ragazzo, con il quale sono stata fidanzata per 12 anni, un incubo.
+Perché dico questo? Perché quello che sto vivendo ora è un inferno, non certo prima!
+Preferisco stare a casa piuttosto che perdere la mia intimità, la mia intelligenza, il mio amore per qualsiasi cosa.
+Una volta mi eccitavo al solo guardare negli occhi l’uomo che volevo sposare, l’uomo con cui volevo passare tutta la mia vita. Ora, beh, è come se non avessi ricordi e lui fosse un estraneo. Mi sembra di non riconoscere nemmeno casa, ho perso tutti i legami mentali e fisici.
+Su consiglio del medico ho iniziato a prendere un antidepressivo, poco sapevo che due settimane dopo quelle quattro pillole mi avrebbero portato via tutto quello per cui ho lottato, tutto quello che ho amato e per cui mi sono battuta.
+Non provo più piacere nel sesso, sono morta.
+Tante volte mi giro nel letto e piango, può qualcosa di così intimo e bello diventare il peggiore degli incubi?
+Ho amnesie, momenti di veri e propri vuoti di memoria… non ricordo nemmeno un piccolo momento gioioso o terribile del passato.
+Sono vuota.
+Non ho più la mia intelligenza, amavo tanto la filosofia, ero una romantica, ora sono un pezzo di ghiaccio sia fisicamente che mentalmente.
+Ma la cosa più traumatica è stata rendersi conto che non provo più niente per niente….
+Posso piangere ora, 6 mesi dopo la sospensione della droga…ma è tutto ciò che mi rimane…lacrime.
+A volte penso: quando avrò un figlio mi emozionerò? Mi emozionerò ancora guardando la mia famiglia? Nessuno dovrebbe arrivare a porsi domande del genere.
+Dirlo non mi sembra vero e credetemi vorrei che lo fosse….
+Non so cosa fare della mia vita, l’unica cosa che posso fare è sperare di stare meglio e recuperare almeno un po’ della mia personalità che mi è stata strappata da 4 pillole e mezzo.
+Tante volte mi fermo in macchina in posti sperduti e urlo e piango.
+È l’unica cosa che mi rimane.
+Poter urlare il mio dolore sperando che qualcuno da lassù mi senta e faccia un miracolo. Vorrei che i medici informassero i pazienti in modo che i pazienti possano decidere se passare attraverso una roulette russa come questa.
+Mi hanno derubato dei miei 25 anni, peggio di come ero prima.
+Ricordo ancora le parole del mio medico “C, prendi questo, regolerà le tue emozioni e potrai tornare a fare qualsiasi cosa”.
+Mi vengono i brividi quando ci penso.
 Pensaci prima di prendere qualsiasi cosa, sei fortunato a leggere queste storie e a poter decidere. Prego per te.
 
 [Storia di C – PSSD Canada](https://www.pssdcanada.ca/international/cs-story)
@@ -501,15 +502,15 @@ Follemente, dopo un anno senza sertralina, e quello che sentivo era un funzionam
 
 Non sono mai stato più lo stesso. Ho imparato presto a conoscere il PSSD da internet, non da un medico. Ora tutto ha un senso.
 
-Sia il mio psichiatra che il PCP mi hanno suggerito di tornare a drogarmi quando ho detto loro che avevo intorpidimento dei genitali, perdita di libido, perdita di attrazione per la mia ragazza e problemi di ED.  
+Sia il mio psichiatra che il PCP mi hanno suggerito di tornare a drogarmi quando ho detto loro che avevo intorpidimento dei genitali, perdita di libido, perdita di attrazione per la mia ragazza e problemi di ED.
 Hanno cercato di dirmi che questo non succede e che deve essere l’ansia! Ho preso questi farmaci a causa dell’ansia e prima avevo un funzionamento sessuale, quindi che l’ansia ora causi disfunzioni non ha senso. Conosco il mio corpo.
 
 Sono i farmaci.
 
-Voglio la consapevolezza del pubblico e il riconoscimento dei medici e delle case farmaceutiche.  
-Voglio una cura e la voglio ora.  
-Ci hanno mentito, ci hanno emarginato e ci meritiamo di riavere la nostra vita.  
-Non è colpa nostra. È colpa di coloro di cui pensavamo di poterci fidare.  
+Voglio la consapevolezza del pubblico e il riconoscimento dei medici e delle case farmaceutiche.
+Voglio una cura e la voglio ora.
+Ci hanno mentito, ci hanno emarginato e ci meritiamo di riavere la nostra vita.
+Non è colpa nostra. È colpa di coloro di cui pensavamo di poterci fidare.
 Ora abbiamo bisogno del loro aiuto per trovare una cura e per smettere di prescrivere questi farmaci alle persone senza informarle correttamente.
 
 ***
@@ -600,9 +601,9 @@ Emotivamente sono esausta, sconfitta e incapace di vedere la luce. Spero che que
 
 PSSD da 1,5 anni
 
-Mi chiamo Antonio e sono un ragazzo italiano di 24 anni. Ho preso un antidepressivo (fluvoxamina) per un OCD puro di tipo reattivo apparso poco prima, tra fine maggio e inizio giugno 2019. Il farmaco mi è stato prescritto a inizio luglio 2019 e ho continuato a prenderlo per 6 mesi. La mia vita prima del farmaco (e prima del DOC) era normale, come quella di tutti, tuttavia quando è comparso questo DOC purtroppo non riuscivo a gestirlo in quanto era la prima volta che mi trovavo in una situazione del genere e mi dava sintomi psicosomatici (essendo un DOC sessuale mi dava diminuzione della libido, ma potevo sentire la differenza tra quella diminuzione della libido che avevo ieri e quella che ho oggi). Il farmaco però non mi dava molti benefici, mi aiutava a nascondere il DOC, ma non mi faceva capire il vero significato di esso. Penso che alcune malattie vengano perché la vita vuole metterci alla prova, forse era il mio caso, ma con il farmaco non impari davvero a batterlo, e comunque devi affrontare possibili effetti collaterali e rischi importanti. Io ne ho avuti diversi: sonnolenza, disturbi urogenitali, vertigini, anedonia e peggioramento dei problemi sessuali.  
-Quando ho tolto il farmaco ho notato che mi era rimasto questo blocco al piacere e alle cose belle della vita; All’inizio non ci feci molto caso, pensavo fosse un residuo dell’OCD, ma quando notai la pressione eiaculatoria più bassa, la perdita di sensibilità nei miei genitali, alcuni problemi poi diagnosticati come ingrossamento prostatico, la libido azzerata più che mai, lo sperma acquoso, l’anorgasmia, tutti sintomi che prima non avevo, mi resi conto che era molto più di un semplice complesso mentale e che doveva esserci un’altra spiegazione. Ho trovato la spiegazione online. Quando sono andata dai medici non sono stati creduto, soprattutto dallo psichiatra che mi ha prescritto il farmaco, né da un andrologo. Devo dire che non ho insistito nel fornirgli la documentazione medica esistente per non sembrare paranoico o saccente. L’unico che mi ha creduto in parte è stato il mio medico di base, ma non aveva nessuna soluzione concreta da offrirmi perché questa condizione non è ancora sufficientemente conosciuta dalla medicina.  
-Ora vivo con questa condizione da più di un anno e mezzo (se includiamo anche i mesi di assunzione) e lentamente mi sono alzato dal trauma iniziale per dare il mio contributo a far conoscere meglio questa condizione. Ovviamente il suo impatto non è innocuo sulla qualità della mia vita, visto che fino al giorno prima di ammalarmi avevo progetti, sogni e ambizioni che sono stati incredibilmente spazzati via da un farmaco che doveva aiutarmi a superare un semplicissimo momento di crisi d’identità. Ho notato che ho perso interesse per il cinema e per le uscite con gli amici poiché vorrei limitare il più possibile l’argomento sesso. Non sto bene ma cerco sempre di lottare e rialzarmi. Spero che molti medici prendano in considerazione questo rischio al momento della prescrizione, in modo che si possa prevenire in molti casi in cui si possono provare altre soluzioni prima di questi farmaci, che questa sindrome sia riconosciuta come dovrebbe essere e soprattutto si possa trovare una cura.  
+Mi chiamo Antonio e sono un ragazzo italiano di 24 anni. Ho preso un antidepressivo (fluvoxamina) per un OCD puro di tipo reattivo apparso poco prima, tra fine maggio e inizio giugno 2019. Il farmaco mi è stato prescritto a inizio luglio 2019 e ho continuato a prenderlo per 6 mesi. La mia vita prima del farmaco (e prima del DOC) era normale, come quella di tutti, tuttavia quando è comparso questo DOC purtroppo non riuscivo a gestirlo in quanto era la prima volta che mi trovavo in una situazione del genere e mi dava sintomi psicosomatici (essendo un DOC sessuale mi dava diminuzione della libido, ma potevo sentire la differenza tra quella diminuzione della libido che avevo ieri e quella che ho oggi). Il farmaco però non mi dava molti benefici, mi aiutava a nascondere il DOC, ma non mi faceva capire il vero significato di esso. Penso che alcune malattie vengano perché la vita vuole metterci alla prova, forse era il mio caso, ma con il farmaco non impari davvero a batterlo, e comunque devi affrontare possibili effetti collaterali e rischi importanti. Io ne ho avuti diversi: sonnolenza, disturbi urogenitali, vertigini, anedonia e peggioramento dei problemi sessuali.
+Quando ho tolto il farmaco ho notato che mi era rimasto questo blocco al piacere e alle cose belle della vita; All’inizio non ci feci molto caso, pensavo fosse un residuo dell’OCD, ma quando notai la pressione eiaculatoria più bassa, la perdita di sensibilità nei miei genitali, alcuni problemi poi diagnosticati come ingrossamento prostatico, la libido azzerata più che mai, lo sperma acquoso, l’anorgasmia, tutti sintomi che prima non avevo, mi resi conto che era molto più di un semplice complesso mentale e che doveva esserci un’altra spiegazione. Ho trovato la spiegazione online. Quando sono andata dai medici non sono stati creduto, soprattutto dallo psichiatra che mi ha prescritto il farmaco, né da un andrologo. Devo dire che non ho insistito nel fornirgli la documentazione medica esistente per non sembrare paranoico o saccente. L’unico che mi ha creduto in parte è stato il mio medico di base, ma non aveva nessuna soluzione concreta da offrirmi perché questa condizione non è ancora sufficientemente conosciuta dalla medicina.
+Ora vivo con questa condizione da più di un anno e mezzo (se includiamo anche i mesi di assunzione) e lentamente mi sono alzato dal trauma iniziale per dare il mio contributo a far conoscere meglio questa condizione. Ovviamente il suo impatto non è innocuo sulla qualità della mia vita, visto che fino al giorno prima di ammalarmi avevo progetti, sogni e ambizioni che sono stati incredibilmente spazzati via da un farmaco che doveva aiutarmi a superare un semplicissimo momento di crisi d’identità. Ho notato che ho perso interesse per il cinema e per le uscite con gli amici poiché vorrei limitare il più possibile l’argomento sesso. Non sto bene ma cerco sempre di lottare e rialzarmi. Spero che molti medici prendano in considerazione questo rischio al momento della prescrizione, in modo che si possa prevenire in molti casi in cui si possono provare altre soluzioni prima di questi farmaci, che questa sindrome sia riconosciuta come dovrebbe essere e soprattutto si possa trovare una cura.
 Non capisco perché il foglietto illustrativo non abbia menzionato tale rischio, visto che ho rifiutato un trattamento a basso dosaggio con antipsicotici proprio per la paura degli effetti collaterali che questi presentavano. Ma in quel caso erano tutti elencati ed ero consapevole che un farmaco del genere avrebbe creato più problemi che benefici nel mio caso. Non mi aspettavo questo nel caso della fluvoxamina, dato che mi sembrava che avesse effetti collaterali abbastanza ridotti. Trovo assurdo nel 2021, dopo circa 30 anni di prescrizione di SSRI e SNRI, che questo grave problema emerga solo ora, nonostante tutte le segnalazioni fatte negli ultimi anni.
 
 [Storia di Antonio – PSSD Canada](https://www.pssdcanada.ca/international/antonios-story)
