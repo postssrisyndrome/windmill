@@ -36,6 +36,21 @@ I sintomi sessuali più comuni di PSSD sono:
 * disfunzioni cognitive;
 * disturbi sensoriali.
 
+## DIAGNOSI
+
+Sebbene la capacità di diagnosticare gli effetti avversi dovrebbe far parte delle competenze di qualsiasi prescrittore, il fatto che queste condizioni possono persistere o emergere dopo la sospensione del farmaco responsabile aggiunge un ulteriore livello di complessità. Inoltre, queste condizioni sono poco conosciute e poco comprese dagli operatori sanitari.
+
+Il 26 ottobre 2021 su _The International journal of risk & safety in medicine_ è stato pubblicato un lavoro che ha coinvolto un gruppo multidisciplinare di 37 esperti e ha permesso di concordare una serie di criteri diagnostici: [Diagnostic criteria for enduring sexual dysfunction after treatment with antidepressants, finasteride and isotretinoin.](https://content.iospress.com/articles/international-journal-of-risk-and-safety-in-medicine/jrs210023 "The paper")
+
+Data la sua importanza, abbiamo dedicato una pagina alla traduzione in italiano dell’articolo integrale: [Criteri diagnostici per la disfunzione sessuale duratura dopo il trattamento con antidepressivi, finasteride e isotretinoina](https://postssrisyndrome.org/la-sindrome/Criteri%20diagnostici%20per%20la%20disfunzione%20sessuale%20duratura%20dopo%20il%20trattamento%20con%20antidepressivi,%20finasteride%20e%20isotretinoina "Pagina con la traduzione in italiano dell'articolo integrale")
+
+Esso fornisce criteri diagnostici per:
+
+* disfunzione sessuale post-SSRI (PSSD)
+* disturbo persistente dell’eccitazione genitale (PGAD) in seguito a inibitori della ricaptazione della serotonina
+* sindrome post-finasteride (PFS)
+* disfunzione sessuale post-retinoide (PRSD)
+
 ## EZIOLOGIA
 
 Diverse ipotesi sono state formulate, specialmente a partire dai vari meccanismi già osservati implicati negli effetti collaterali sessuali durante l’uso di antidepressivi.
@@ -55,21 +70,6 @@ Altri meccanismi implicati negli effetti collaterali sessuali degli antidepressi
 Il recettore 5-HT1A è il recettore della serotonina più diffuso nel sistema nervoso. Esso agisce soprattutto come autorecettore con funzioni di feedback, diminuendo il rilascio di serotonina quando questa risulta troppo elevata. Si ritiene che affinché i farmaci antidepressivi possano espletare il loro effetto serotoninergico, l’autorecettore debba desensibilizzarsi interrompendo così il meccanismo di feedback. Ciò spiegherebbe la latenza di circa 2 settimane tra la prima assunzione del farmaco e l’effetto antidepressivo dello stesso. La desensibilizzazione e sottoregolazione di 5-HT1A sono coinvolte nella regolazione della risposta sessuale, inibendo la funzione sessuale e la trasmissione dopaminergica, responsabile, tra le tante cose, delle sensazioni edoniche.
 
 Csoka et al. hanno ipotizzato che i recettori 5-HT1A possano rimanere desensibilizzati e sottoregolati in modo persistente ad opera di alterazioni nell’espressione genica, in seguito ad un’esposizione cronica a SSRI ed hanno successivamente condotto uno studio sulla metilazione del DNA indotta da uno SSRI.
-
-## DIAGNOSI
-
-Sebbene la capacità di diagnosticare gli effetti avversi dovrebbe far parte delle competenze di qualsiasi prescrittore, il fatto che queste condizioni possono persistere o emergere dopo la sospensione del farmaco responsabile aggiunge un ulteriore livello di complessità. Inoltre, queste condizioni sono poco conosciute e poco comprese dagli operatori sanitari.
-
-Il 26 ottobre 2021 su _The International journal of risk & safety in medicine_ è stato pubblicato un lavoro che ha coinvolto un gruppo multidisciplinare di 37 esperti e ha permesso di concordare una serie di criteri diagnostici: [Diagnostic criteria for enduring sexual dysfunction after treatment with antidepressants, finasteride and isotretinoin.](https://content.iospress.com/articles/international-journal-of-risk-and-safety-in-medicine/jrs210023 "The paper")
-
-Data la sua importanza, abbiamo dedicato una pagina alla traduzione in italiano dell’articolo integrale: [Criteri diagnostici per la disfunzione sessuale duratura dopo il trattamento con antidepressivi, finasteride e isotretinoina](https://postssrisyndrome.org/la-sindrome/Criteri%20diagnostici%20per%20la%20disfunzione%20sessuale%20duratura%20dopo%20il%20trattamento%20con%20antidepressivi,%20finasteride%20e%20isotretinoina "Pagina con la traduzione in italiano dell'articolo integrale")
-
-Esso fornisce criteri diagnostici per:
-
-* disfunzione sessuale post-SSRI (PSSD)
-* disturbo persistente dell’eccitazione genitale (PGAD) in seguito a inibitori della ricaptazione della serotonina
-* sindrome post-finasteride (PFS)
-* disfunzione sessuale post-retinoide (PRSD)
 
 ## La PSSD, al momento, rimane senza una cura
 
