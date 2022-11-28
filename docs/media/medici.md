@@ -37,4 +37,4 @@ Questa pagina raccoglie alcuni articoli divulgativi sulla disfunzione sessuale p
 ## Medici psicoterapeuti
 
 * [Antidepressivi serotoninergici (SSRI) e disfunzione sessuale persistente | Angelo Mercuri](https://www.angelomercuri.it/antidepressivi-serotoninergici-ssri-e-disfunzione-sessuale-persistente/)
-    * La disfunzione sessuale post-SSRI (Post-SSRI Sexual Dysfunction, PSSD) è una patologia causata dagli inibitori selettivi della ricaptazione della serotonina ed è caratterizzata da disfunzioni sessuali ed emotive che solitamente insorgono già durante l'assunzione del farmaco (vedi il mio articolo "Sessualità e antidepressivi") e persistono per un tempo indefinito dopo la sospensione.
+    * 2019-09 | La disfunzione sessuale post-SSRI (Post-SSRI Sexual Dysfunction, PSSD) è una patologia causata dagli inibitori selettivi della ricaptazione della serotonina ed è caratterizzata da disfunzioni sessuali ed emotive che solitamente insorgono già durante l'assunzione del farmaco (vedi il mio articolo "Sessualità e antidepressivi") e persistono per un tempo indefinito dopo la sospensione.
