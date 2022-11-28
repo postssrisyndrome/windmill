@@ -1,5 +1,7 @@
 # Farmaci serotoninergici che possono causare una disfunzione sessuale permanente
 
+Una significativa disfunzione sessuale può verificarsi durante il trattamento e dopo l’interruzione di qualsiasi farmaco inibitore della ricaptazione della serotonina (SRI). Gli SRI includono gli inibitori selettivi della ricaptazione della serotonina (SSRI), gli inibitori della ricaptazione della serotonina-norepinefrina (SNRI), gli antidepressivi triciclici SRI, gli antistaminici SRI, gli antibiotici tetraciclini come la doxiciclina e gli analgesici come il tramadolo.
+
 ## Farmaci SSRI (_selective serotonin reuptake inhibitors_)
 
 ### Fluoxetina
@@ -39,3 +41,9 @@ La **venlafaxina**, conosciuta con i nomi commerciali **Efexor**, **Faxine**, **
 La **duloxetina** è il principio attivo di un antidepressivo appartenente alla classe degli SNRI commercializzato con i nomi di **Cymbalta** e **Xeristar.**
 
 Viene utilizzato per il trattamento del disturbo depressivo maggiore, il disturbo d’ansia generalizzato, la fibromialgia e il dolore neuropatico.
+
+## Riferimenti
+
+* [Disfunzione sessuale persistente dopo terapia anti-depressiva | Quotidianosanità.it](https://www.quotidianosanita.it/scienza-e-farmaci/articolo.php?articolo_id=76915)
+* Healy, D., Bahrick, A., Bak, M., Barbato, A., Calabrò, R. S., Chubak, B. M., ... & Waraich, A. (2022). Diagnostic criteria for enduring sexual dysfunction after treatment with antidepressants, finasteride and isotretinoin. _International Journal of Risk & Safety in Medicine_, 33(1), 65-76.
+[https://doi.org/10.3233/JRS-210023](https://doi.org/10.3233/JRS-210023).
