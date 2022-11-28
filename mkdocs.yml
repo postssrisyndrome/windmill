@@ -3,7 +3,14 @@ site_url: https://postssrisyndrome.github.io
 theme:
   name: mkdocs
   locale: it
-  nav_style: light
+  nav_style: primary  # 'dark' or 'light'
+plugins:
+    - search:
+        lang: it
+        # indexing values: 'full' (default), 'sections', 'titles'
+        indexing: 'full'
+extra_css:
+    - css/extra.css
 nav:
   - News: news.md
   - "La sindrome":
