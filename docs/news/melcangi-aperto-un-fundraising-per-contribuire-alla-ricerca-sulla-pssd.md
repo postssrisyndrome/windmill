@@ -14,7 +14,7 @@ Dato che la ricerca è costosa e i fondi per questo progetto non sono molto elev
 
 **A cosa serve donare?**
 
-![](/img/istock_000008506606large.png)Questo crowdfunding è pensato per aiutare a coprire una parte dei costi del progetto, che è diviso in due fasi: la stima per la prima fase è di circa 18-20 k, mentre quello della seconda dipende dall’esito della prima. Naturalmente più si riesce a raccogliere e meglio è.
+![](../img/istock_000008506606large.png)Questo crowdfunding è pensato per aiutare a coprire una parte dei costi del progetto, che è diviso in due fasi: la stima per la prima fase è di circa 18-20 k, mentre quello della seconda dipende dall’esito della prima. Naturalmente più si riesce a raccogliere e meglio è.
 
 Lo studio è già iniziato, ma nel 2020 è andato molto a rilento perché altri progetti meglio finanziati hanno maggiore priorità, e anche per gli effetti del COVID-19.
 

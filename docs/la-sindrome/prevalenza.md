@@ -6,7 +6,7 @@ title: Prevalenza
 
 (Questa è la versione italiana dell’[articolo originale inglese](https://rxisk.org/how-common-is-post-ssri-sexual-dysfunction-pssd/ "How Common is Post-SSRI Sexual Dysfunction (PSSD)?"))
 
-![](/img/magnifying-glass-people.jpg)
+![](../img/magnifying-glass-people.jpg)
 
 Il livello di rischio di sviluppare una disfunzione sessuale post-SSRI (PSSD) dall’uso di un antidepressivo SSRI o SNRI è attualmente **sconosciuto**. I pazienti non vengono _mai_ avvertiti dei persistenti effetti collaterali sessuali quando questi farmaci vengono prescritti.
 
@@ -124,11 +124,11 @@ Lo studio sulla fluoxetina del 1999 ha concluso, sulla base dei suoi test neurof
 
 Una visione comune del PSSD è che si tratta di una condizione grave che una persona sviluppa o meno – e che la grande maggioranza delle persone non lo fa. Pertanto, la prevalenza viene generalmente assunta come qualcosa di simile all’esempio 1:
 
-![](/img/pssd-example-1.jpg)
+![](../img/pssd-example-1.jpg)
 
 Tuttavia, questa idea sembra sempre meno convincente. Tenendo conto di tutto, si presenta la possibilità che il vero quadro possa assomigliare di più all’esempio 2 o a qualche sua variante:
 
-![](/img/pssd-example-2.jpg)
+![](../img/pssd-example-2.jpg)
 
 La domanda originale era: quanto è comune la disfunzione sessuale post-SSRI? Questo articolo potrebbe non aver fornito una risposta, ma forse suggerisce una serie di ragioni per cui alcuni pazienti potrebbero non identificarsi con la condizione, nonostante il persistere di effetti collaterali sessuali.
 

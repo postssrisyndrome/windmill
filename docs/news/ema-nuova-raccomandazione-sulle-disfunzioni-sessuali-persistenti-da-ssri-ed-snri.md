@@ -19,4 +19,4 @@ Raccomandazione:
 Inglese [https://www.ema.europa.eu/documents/prac-recommendation/prac-recommendations-signals-adopted-13-16-may-2019-prac-meeting_en.pdf](https://www.ema.europa.eu/documents/prac-recommendation/prac-recommendations-signals-adopted-13-16-may-2019-prac-meeting_en.pdf "https://www.ema.europa.eu/documents/prac-recommendation/prac-recommendations-signals-adopted-13-16-may-2019-prac-meeting_en.pdf")  
 Italiano [https://www.ema.europa.eu/en/documents/other/new-product-information-wording-extracts-prac-recommendations-signals-adopted-13-16-may-2019-prac_it.pdf](https://www.ema.europa.eu/en/documents/other/new-product-information-wording-extracts-prac-recommendations-signals-adopted-13-16-may-2019-prac_it.pdf "https://www.ema.europa.eu/en/documents/other/new-product-information-wording-extracts-prac-recommendations-signals-adopted-13-16-may-2019-prac_it.pdf")
 
-![](/img/recommandation-11-june-2019.png)
+![](../img/recommandation-11-june-2019.png)

@@ -15,6 +15,6 @@ Nell’ambito della seduta PRAC (Pharmacovigilance Risk Assessment Committee) de
 
 Il verbale e’ consultabile al seguente link (pag. 15-16): [https://www.ema.europa.eu/documents/minutes/minutes-prac-meeting-29-31-october-2018_en.pdf](https://www.ema.europa.eu/documents/minutes/minutes-prac-meeting-29-31-october-2018_en.pdf "https://www.ema.europa.eu/documents/minutes/minutes-prac-meeting-29-31-october-2018_en.pdf")
 
-![](/img/screenshot-27.png)
+![](../img/screenshot-27.png)
 
-![](/img/screenshot-28.png)
+![](../img/screenshot-28.png)

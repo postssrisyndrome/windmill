@@ -5,7 +5,7 @@ La **disfunzione sessuale post-SSRI** (Post-SSRI Sexual Dysfunction, PSSD) è un
 Queste disfunzioni possono presentarsi durante l'assunzione del farmaco, ma possono anche presentarsi solo dopo la sua sospensione.
 La sindrome è indipendente da qualsiasi problema di salute mentale preesistente o reattivo e può essere innescata in volontari sani dopo esposizioni di poche settimane. [1]
 
-![](/img/113207765_s.jpg)
+![](../img/113207765_s.jpg)
 
 ## DELINEAZIONE ED EPIDEMIOLOGIA
 

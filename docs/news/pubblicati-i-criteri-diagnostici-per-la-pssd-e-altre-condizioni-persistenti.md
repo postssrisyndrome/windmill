@@ -10,7 +10,7 @@ author_image_url: ''
 ---
 # **Criteri diagnostici per la disfunzione sessuale persistente dopo il trattamento con antidepressivi, finasteride e isotretinoina**
 
-![](/img/diagnostic-criteria.png)
+![](../img/diagnostic-criteria.png)
 
 Grazie allo sforzo di un gruppo interdisciplinare di 37 esperti sono stati pubblicati i [“Diagnostic criteria for enduring sexual dysfunction after treatment with antidepressants, finasteride and isotretinoin”](https://content.iospress.com/articles/international-journal-of-risk-and-safety-in-medicine/jrs210023#ref013 "The paper").
 
