@@ -104,6 +104,10 @@ La decisione dell'EMA è seguita ad una sua revisione approfondita sul "nuovo se
 
 A psychiatrist specializing in sexual dysfunction caused by antidepressants is calling for greater recognition of the problems that can endure after treatment stops. Professor David Healy, writing in the Journal of the Royal Society of Medicine, said problems may begin after only a few doses and leave someone affected for life, or a relatively mild dysfunction can worsen dramatically when the person stops treatment.
 
+## [2020-09 | DISFUNZIONI SESSUALI DOPO LA SOSPENSIONE DI ANTIDEPRESSIVI SSRI | Psiconline](https://www.psiconline.it/area-professionale/ricerche-e-contributi/)
+
+Dopo una lunga revisione sull'argomento, il Comitato di Valutazione dei Rischi per la Farmacovigilanza (Pharmacovigilance Risk Assessment Committee) ha stabilito che la “disfunzione sessuale, che è nota per il trattamento con SSRI e SNRI, che di solito si risolve dopo l'interruzione del trattamento, può essere di lunga durata in alcuni pazienti, anche dopo l'interruzione del trattamento”.
+
 ## [2020-09 | I farmaci antidepressivi possono causare disfunzione sessuale | Socialfarma]((https://www.socialfarma.it/i-farmaci-antidepressivi-possono-causare-disfunzione-sessuale/))
 
 Un'approfondita revisione della letteratura scientifica ha ufficialmente riconosciuto l'esistenza di una nuova condizione prodotta dal trattamento con antidepressivi SSRi (inibitori selettivi della ricaptazione della serotonina) e SNRI (inibitori dela ricaptazione della serotonina e della norepinefrina) chiamata " Disfunzione sessuale post SSRi/SNRI ".
