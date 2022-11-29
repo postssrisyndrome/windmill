@@ -4,6 +4,11 @@ title: Pubblicazioni
 sidebar_label: Pubblicazioni
 
 ---
+
+![](../img/Medical-Literature.jpg)
+
+# Letteratura scientifica
+
 ## Diagnostic criteria for enduring sexual dysfunction after treatment with antidepressants, finasteride and isotretinoin
 
 David Healy, Audrey Bahrick, Maarten Bak, Angelo Barbato, Rocco Salvatore Calabrò, Barbara M Chubak, Fiammetta Cosci, Antonei B Csoka, Barbara D’Avanzo, Silvia Diviccaro, Silvia Giatti, Irwin Goldstein, Heiko Graf, Wayne J G Hellstrom, Michael S Irwig, Emmanuele A Jannini, Paddy K C Janssen, Mohit Khera, Manoj Therayil Kumar, Joanna Le Noury, Michał Lew-Starowicz, David E J Linden, Celine Lüning, Dee Mangin, Roberto Cosimo Melcangi, Omar Walid Muquebil Ali Al Shaban Rodríguez, Jalesh N Panicker, Arianna Patacchini, Amy M Pearlman, Caroline F Pukall, Sanjana Raj, Yacov Reisman, Rachel S Rubin, Rudy Schreiber, Stuart Shipko, Barbora Vašečková, Ahad Waraich

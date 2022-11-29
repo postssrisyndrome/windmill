@@ -2,9 +2,13 @@ Title: Home
 
 # Benvenuto su Post-SSRI Syndrome
 
-La **disfunzione sessuale post-SSRI** (Post-SSRI Sexual Dysfunction, PSSD) è una condizione iatrogena causata da psicofarmaci quali inibitori selettivi della ricaptazione della serotonina (SSRI) e inibitori della ricaptazione di serotonina e noradrenalina (SNRI), caratterizzata da disfunzioni sessuali ed emotive dopo la sospensione degli SSRI/SNRI, disfunzioni che prima dell’inizio del trattamento farmacologico non erano presenti. [Approfondisci](la-sindrome/caratteristiche.md)
+La **disfunzione sessuale post-SSRI** (Post-SSRI Sexual Dysfunction, PSSD) è una sindrome iatrogena causata da psicofarmaci quali inibitori selettivi della ricaptazione della serotonina (SSRI) e inibitori della ricaptazione di serotonina e noradrenalina (SNRI), caratterizzata da disfunzioni sessuali ed emotive dopo la sospensione degli SSRI/SNRI, disfunzioni che prima dell’inizio del trattamento farmacologico non erano presenti. [Approfondisci](la-sindrome/caratteristiche.md)
+
+![](./img/pssd-home.jpg)
 
 La PSSD è stata delineata in letteratura medica dal 2006 a partire da case reports, con diversi solleciti da parte degli autori ad indagare più approfonditamente i rischi e le cause della condizione. [Approfondisci](ricerca/pubblicazioni.md)
+
+![](./img/Medical-Literature.jpg)
 
 ## News
 
