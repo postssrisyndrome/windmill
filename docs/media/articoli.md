@@ -112,6 +112,10 @@ Dopo una lunga revisione sull'argomento, il Comitato di Valutazione dei Rischi p
 
 Un'approfondita revisione della letteratura scientifica ha ufficialmente riconosciuto l'esistenza di una nuova condizione prodotta dal trattamento con antidepressivi SSRi (inibitori selettivi della ricaptazione della serotonina) e SNRI (inibitori dela ricaptazione della serotonina e della norepinefrina) chiamata " Disfunzione sessuale post SSRi/SNRI ".
 
+## [2020-09 | Impotenza, l'allarme di Melania Rizzoli: occhio agli psicofarmaci, sedano il desiderio sessuale | Libero](https://www.liberoquotidiano.it/news/scienze-tech/salute/24718130/impotenza-psicofarmaci-sedano-desiderio-sessuale-melania-rizzoli.html)
+
+Ma è proprio vero che gli psicofarmaci sedano il desiderio sessuale, rendono impotenti gli uomini, le donne completamente disinteressate all'amore e conducono all'anestesia genitale? Il problema è reale, ed era rimasto finora sottotraccia per non creare un conflitto tra la priorità della salute mentale e generale rispetto a quella sessuale, ritenuta secondaria da curare rispetto alle prime.
+
 ## [2020-12 | Gli antidepressivi possono devastare la tua vita sessuale, ma parlarne è ancora un tabù | The Vision](https://thevision.com/scienza/antidepressivi-libido)
 
 Gloria ha cominciato ad assumere la fluoxetina quando, nel 2017, le è stato diagnosticato un grave episodio depressivo. "Nel giro di un mese ho perso completamente la capacità di raggiungere l'orgasmo e anche il desiderio sessuale è calato a picco. Semplicemente, durante i rapporti non sentivo nulla".
