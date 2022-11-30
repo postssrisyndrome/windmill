@@ -14,11 +14,12 @@ extra_css:
 nav:
   - News: news.md
   - "La sindrome":
-    - la-sindrome/caratteristiche.md
+    - Caratteristiche: la-sindrome/caratteristiche.md
     - "Quanto è comune?": la-sindrome/prevalenza.md
-    - "Quali farmaci sono coinvolti?": la-sindrome/farmaci.md
+    - "Farmaci coinvolti": la-sindrome/farmaci.md
+    - "Domande frequenti": la-sindrome/faq.md
     - la-sindrome/criteri-diagnostici.md
-    - la-sindrome/storie.md
+    - "Esperienze dei pazienti": la-sindrome/storie.md
   - Ricerca:
     - "Ricerca in corso": ricerca/ricerca-in-corso.md
     - ricerca/pubblicazioni.md
