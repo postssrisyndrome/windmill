@@ -1,4 +1,6 @@
-# Bibliografia
+# Bibliografia sulla Disfunzione Sessuale Post-SSRI
+
+Ultimo aggiornamento: 2 Dicembre 2022
 
 1. De Luca R, Bonanno M, Manuli A, Calabrò RS. Cutting the First Turf to Heal
 Post-SSRI Sexual Dysfunction: A Male Retrospective Cohort Study.
