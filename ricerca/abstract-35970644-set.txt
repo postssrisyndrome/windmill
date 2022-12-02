@@ -1,0 +1,1256 @@
+1. Encephale. 2022 Dec;48(6):599-600. doi: 10.1016/j.encep.2022.07.001. Epub 2022 
+Aug 12.
+
+Screening and treatment of Post-Selective Serotonin Reuptake Inhibitors sexual 
+dysfunctions.
+
+Achour V(1), Masson M(2), Lancon C(1), Boyer L(1), Fond G(3).
+
+Author information:
+(1)Hôpitaux universitaires de Marseille, department de psychiatrie 
+universitaire, EA 3279: Aix-Marseille Université, CEReSS-Health Service Research 
+and Quality of Life Center, 27, boulevard Jean-Moulin, 13005 Marseille, France; 
+Nightingale Hospitals-Paris, clinique du Château de Garches, 11, bis rue de la 
+Porte Jaune, 92380 Garches, France.
+(2)Service Hospitalo-Universitaire, CH Sainte Anne, 1, rue Cabanis, 75014 Paris, 
+France.
+(3)Hôpitaux universitaires de Marseille, department de psychiatrie 
+universitaire, EA 3279: Aix-Marseille Université, CEReSS-Health Service Research 
+and Quality of Life Center, 27, boulevard Jean-Moulin, 13005 Marseille, France; 
+Nightingale Hospitals-Paris, clinique du Château de Garches, 11, bis rue de la 
+Porte Jaune, 92380 Garches, France. Electronic address: guillaume.fond@ap-hm.fr.
+
+DOI: 10.1016/j.encep.2022.07.001
+PMID: 35970644 [Indexed for MEDLINE]
+
+
+2. Medicines (Basel). 2022 Sep 1;9(9):45. doi: 10.3390/medicines9090045.
+
+Cutting the First Turf to Heal Post-SSRI Sexual Dysfunction: A Male 
+Retrospective Cohort Study.
+
+De Luca R(1), Bonanno M(1), Manuli A(2), Calabrò RS(1).
+
+Author information:
+(1)Neurorehabilitation Unit, IRCCS Centro Neurolesi "Bonino Pulejo", 98166 
+Messina, Italy.
+(2)UOC Physical Medicine and Rehabilitation, AOU Policlinico G Martino, 98166 
+Messina, Italy.
+
+Post-SSRI sexual dysfunction (PSSD) is a set of heterogeneous sexual problems, 
+which may arise during the administration of selective serotonin reuptake 
+inhibitors (SSRIs) and persist after their discontinuation. PSSD is a rare 
+clinical entity, and it is commonly associated with non-sexual concerns, 
+including emotional and cognitive problems and poor quality of life. To date, 
+however, no effective treatment is available. The aim of this study was to 
+retrospectively evaluate the potential efficacy of the different treatments used 
+in clinical practice in improving male PSSD. Of the 30 patients referred to our 
+neurobehavioral outpatient clinic from January 2020 to December 2021, 13 
+Caucasian male patients (mean age 29.53 ± 4.57 years), previously treated with 
+SSRIs, were included in the study. Patients with major depressive disorder 
+and/or psychotic symptoms were excluded a priori to avoid overlapping 
+symptomatology, and potentially reduce the misdiagnosis rate. To treat PSSD, we 
+decided to use drugs positively affecting the brain dopamine/serotonin ratio, 
+such as bupropion and vortioxetine, as well as other compounds. This latter drug 
+is known not to cause or reverse iatrogenic SD. Most patients, after treatment 
+with vortioxetine and/or nutraceuticals, reported a significant improvement in 
+all International Index of Erectile Function-(IIEF-5) domains (p &lt; 0.05) from 
+baseline (T0) to 12-month follow-up (T1). Moreover, the only patient treated 
+with pelvic muscle vibration reached very positive results. Although our data 
+come from a retrospective open-label study with a small sample size, drugs 
+positively modulating the central nervous system serotonin/dopamine ratio, such 
+as vortioxetine, could be used to potentially improve PSSD. Large-sample 
+prospective cohort studies and randomized clinical trials are needed to 
+investigate the real prevalence of this clinical entity and confirm such a 
+promising approach to a potentially debilitating illness.
+
+DOI: 10.3390/medicines9090045
+PMCID: PMC9503765
+PMID: 36135826
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+3. Expert Opin Drug Saf. 2022 Apr;21(4):553-561. doi: 
+10.1080/14740338.2022.2007883. Epub 2021 Nov 27.
+
+Persistent sexual dysfunction after SSRI withdrawal: a scoping review and 
+presentation of 86 cases from the Netherlands.
+
+Chinchilla Alfaro K(1), van Hunsel F(1), Ekhart C(1).
+
+Author information:
+(1)Signal Detection Department, Netherlands Pharmacovigilance Centre Lareb, 
+'S-Hertogenbosch, The Netherlands.
+
+BACKGROUND: Sexual dysfunction is highly prevalent worldwide. A specific form is 
+persistent sexual dysfunction after SSRI withdrawal. We conducted a systematic 
+literature review in order to characterize factors related to post SSRI sexual 
+dysfunction (PSSD) and analyzed spontaneous reports of persistent sexual 
+dysfunction reported to the Netherlands Pharmacovigilance Center Lareb.
+RESEARCH DESIGN AND METHODS: A systematic literature review was conducted 
+following the PRISMA-ScR guidelines. In addition, reports of PSSD submitted to 
+the Netherlands Pharmacovigilance Center Lareb between 1992 and 2021 were 
+analyzed.
+RESULTS: A total of 237 articles were retrieved through the search and 33 
+articles were selected for inclusion in this review, in accordance with the 
+inclusion criteria. Information regarding the characteristics of the condition, 
+its clinical management, patient characteristics, and impact of PSSD is 
+presented. A total of 86 reports of persistent sexual dysfunction were analyzed. 
+The longest case being a patient with PSSD for 23 years. The main symptoms were: 
+loss or decreased libido (n = 53), erectile dysfunction (n = 23) and anorgasmia 
+(n = 5).
+CONCLUSIONS: PSSD impact includes sexual, psychological, and social 
+consequences. Little is known about the mechanisms underlying PSSD and no 
+effective treatment exists. It is necessary to increase recognition of PSSD 
+among prescribers and improve its management at the clinical level.
+
+DOI: 10.1080/14740338.2022.2007883
+PMID: 34791958 [Indexed for MEDLINE]
+
+
+4. Int J Risk Saf Med. 2022;33(1):65-76. doi: 10.3233/JRS-210023.
+
+Diagnostic criteria for enduring sexual dysfunction after treatment with 
+antidepressants, finasteride and isotretinoin.
+
+Healy D(1), Bahrick A(2), Bak M(3)(4), Barbato A(5), Calabrò RS(6), Chubak 
+BM(7), Cosci F(3)(8)(9), Csoka AB(10), D'Avanzo B(5), Diviccaro S(11), Giatti 
+S(11), Goldstein I(12)(13), Graf H(14), Hellstrom WJG(15), Irwig MS(16)(17), 
+Jannini EA(18), Janssen PKC(19)(20), Khera M(21), Kumar MT(22), Le Noury J(23), 
+Lew-Starowicz M(24), Linden DEJ(25), Lüning C(26), Mangin D(1), Melcangi RC(11), 
+Rodríguez OWMAAS(27), Panicker JN(28)(29), Patacchini A(8), Pearlman AM(30), 
+Pukall CF(31), Raj S(32), Reisman Y(33), Rubin RS(34), Schreiber R(35), Shipko 
+S(36), Vašečková B(37), Waraich A(13).
+
+Author information:
+(1)Department of Family Medicine, McMaster University, Hamilton, ON, Canada.
+(2)University Counseling Service, University of Iowa, Iowa City, IA, USA.
+(3)Department of Psychiatry and Neuropsychology, Maastricht University, 
+Maastricht, The Netherlands.
+(4)FACT, Mondriaan Mental Health, Maastricht/Heerlen, The Netherlands.
+(5)Unit for Quality of Care and Rights Promotion in Mental Health, IRCCS 
+Istituto di Ricerche Farmacologiche Mario Negri, Milan, Italy.
+(6)IRCCS Centro Neurolesi Bonino-Pulejo, Messina, Italy.
+(7)Department of Urology, Icahn School of Medicine at Mount Sinai, New York, NY, 
+USA.
+(8)Department of Health Sciences, University of Florence, Florence, Italy.
+(9)Clinical Pharmacopsychology Laboratory, University of Florence, Florence, 
+Italy.
+(10)Department of Anatomy, Howard University College of Medicine, Washington, 
+DC, USA.
+(11)Department of Pharmacological and Biomolecular Sciences, University of 
+Milan, Milan, Italy.
+(12)Alvarado Hospital, San Diego, CA, USA.
+(13)San Diego Sexual Medicine, San Diego, CA, USA.
+(14)Department of Psychiatry and Psychotherapy, Ulm University, Ulm, Germany.
+(15)Department of Urology, Tulane University School of Medicine, New Orleans, 
+LA, USA.
+(16)Beth Israel Deaconess Medical Center, Boston, MA, USA.
+(17)Harvard Medical School, Boston, MA, USA.
+(18)Department of Systems Medicine, University of Rome Tor Vergata, Rome, Italy.
+(19)Department of Clinical Pharmacy and Toxicology, Maastricht University 
+Medical Centre, Maastricht, The Netherlands.
+(20)Department of Hospital Pharmacy, VieCuri Medical Center, Venlo, The 
+Netherlands.
+(21)Department of Urology, Baylor School of Medicine, Houston, TX, USA.
+(22)Institute for Mind and Brain, Kerala, India.
+(23)North Wales Department of Psychological Medicine, Bangor, Wales, UK.
+(24)Department of Psychiatry, Centre of Postgraduate Medical Education, Warsaw, 
+Poland.
+(25)Department of Psychiatry and Neuropsychology, Faculty of Health, Medicine 
+and Life Sciences, School for Mental Health and Neuroscience, Maastricht 
+University, Maastricht, The Netherlands.
+(26)Department of Psychology and Psychotherapy, Witten/Herdecke University, 
+Witten, Germany.
+(27)Psychiatry Service, Hospital Universitario San Agustín, Avilés, Asturias, 
+Spain.
+(28)Department of Uro-Neurology, The National Hospital for Neurology and 
+Neurosurgery, Queen Square, London, UK.
+(29)Department of Brain Repair and Rehabilitation, UCL Queen Square Institute of 
+Neurology, Faculty of Brain Sciences, University College London, London, UK.
+(30)Carver College of Medicine, University of Iowa Health Care, Iowa City, IA, 
+USA.
+(31)Department of Psychology, Queen's University, Kingston, ON, Canada.
+(32)Faculty of Social and Behavioural Sciences, Utrecht University, Utrecht, The 
+Netherlands.
+(33)Flare-Health, Amstelveen, The Netherlands.
+(34)Department of Urology, Georgetown University School of Medicine, Washington, 
+DC, USA.
+(35)Department of Neuropsychology and Psychopharmacology, Faculty of Psychology 
+and Neuroscience, Maastricht University, Maastricht, The Netherlands.
+(36)Private Practice, Pasadena, CA, USA.
+(37)Psychiatric Clinic, Slovak Medical University and University Hospital, 
+Bratislava, Slovakia.
+
+BACKGROUND: A set of enduring conditions have been reported in the literature 
+involving persistent sexual dysfunction after discontinuation of serotonin 
+reuptake inhibiting antidepressants, 5 alpha-reductase inhibitors and 
+isotretinoin.
+OBJECTIVE: To develop diagnostic criteria for post-SSRI sexual dysfunction 
+(PSSD), persistent genital arousal disorder (PGAD) following serotonin reuptake 
+inhibitors, post-finasteride syndrome (PFS) and post-retinoid sexual dysfunction 
+(PRSD).
+METHODS: The original draft was designed using data from two published case 
+series (Hogan et al., 2014 and Healy et al., 2018), which represent the largest 
+public collections of data on these enduring conditions. It was further 
+developed with the involvement of a multidisciplinary panel of experts.
+RESULTS: A set of criteria were agreed upon for each of the above conditions. 
+Features of PSSD, PFS and PRSD commonly include decreased genital and orgasmic 
+sensation, decreased sexual desire and erectile dysfunction. Ancillary 
+non-sexual symptoms vary depending on the specific condition but can include 
+emotional blunting and cognitive impairment. PGAD presents with an almost mirror 
+image of unwanted sensations of genital arousal or irritability in the absence 
+of sexual desire. A new term, post-SSRI asexuality, is introduced to describe a 
+dampening of sexual interest and pleasure resulting from a pre-natal or pre-teen 
+exposure to a serotonin reuptake inhibitor.
+CONCLUSIONS: These criteria will help in both clinical and research settings. As 
+with all criteria, they will likely need modification in the light of 
+developments.
+
+DOI: 10.3233/JRS-210023
+PMCID: PMC8925105
+PMID: 34719438 [Indexed for MEDLINE]
+
+
+5. Sex Med Rev. 2022 Jan;10(1):91-98. doi: 10.1016/j.sxmr.2021.07.001. Epub 2021 
+Oct 7.
+
+Post-SSRI Sexual Dysfunction (PSSD): Biological Plausibility, Symptoms, 
+Diagnosis, and Presumed Risk Factors.
+
+Peleg LC(1), Rabinovitch D(2), Lavie Y(1), Rabbie DM(3), Horowitz I(2), Fruchter 
+E(4), Gruenwald I(5).
+
+Author information:
+(1)Private Clinic, Haifa, Israel.
+(2)Rambam Healthcare Campus, Psychiatry Department, Haifa, Israel.
+(3)Ahram Canadian University, Neuropharmacology, 6th of October City, Egypt.
+(4)Bruce Rappaport Medicine Faculty, Haifa, Israel.
+(5)Rambam Healthcare Campus, Neuro-Urology Unit, Haifa, Israel. Electronic 
+address: I_gruenwald@rmc.gov.il.
+
+INTRODUCTION: Post-SSRI sexual-dysfunction (PSSD) is an iatrogenic syndrome, the 
+underlying neurobiological mechanisms of which are unclear. Symptom onset 
+follows cessation of serotonergic antidepressants i.e. Selective Serotonin and 
+Norepinephrine Reuptake Inhibitors (SSRI's, SNRI's), and Tricyclic 
+antidepressants (TCA's). PSSD symptoms include genital anesthesia, erectile 
+dysfunction and orgasmic/ejaculatory anhedonia, and should be differentiated 
+from depression-related sexual-dysfunction. Recently, accumulated data of 
+numerous case-reports suggest additional non-sexual symptoms including, 
+anhedonia, apathy, and blunted affect. PSSD gained official recognition after 
+the European medical agency concluded that PSSD is a medical condition that 
+persists after discontinuation of SSRI's and SNRI's.
+OBJECTIVE: To review possible underlying neurobiological mechanisms of this 
+syndrome, update information on the pathophysiology, present a list of potential 
+risk-factors and discuss potential management options for PSSD.
+METHODS: Extensive literature review on the main symptom-patterns of this 
+disorder was undertaken using PubMed. It includes introductory explications of 
+relevant neurobiology with the objective of generating hypothesis.
+RESULTS: Precipitating factors for PSSD include previous exposure to certain 
+drugs, genetic predisposition, psychological stress or chemical stressful 
+reaction to antidepressants along pre-existing medical conditions affecting 
+neuroplasticity. Different theories have been proposed to explain the 
+pathophysiology of PSSD: epigenetic gene expression, dopamine-serotonin 
+interactions, serotonin neurotoxicity and hormonal changes. The diagnosis of 
+PSSD is achieved by excluding all other etiologies of sexual-dysfunction. 
+Treatment is challenging, and many strategies have been suggested without 
+definitive outcomes. We offer the contours of a future neurobiological research 
+agenda, and propose several underlying mechanisms for the various symptoms of 
+PSSD which could be the foundation for a future treatment algorithm.
+CONCLUSION: There is a need for well-designed neurobiological research in this 
+domain, as well as in the prevalence, pathophysiology, and treatment of PSSD. 
+Practitioners should be alert to the distinctive features of PSSD. Misdiagnosing 
+this syndrome might lead to harmful treatments including reinstatement of 
+medications which generated PSSD. Sexual Medicine Reviews. Peleg LC, Rabinovitch 
+D, Lavie Y, et al. Post-SSRI Sexual Dysfunction (PSSD): Biological Plausibility, 
+Symptoms, Diagnosis, and Presumed Risk Factors. Sex Med Rev 2022;10:91-98.
+
+Copyright © 2021 International Society for Sexual Medicine. Published by 
+Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.sxmr.2021.07.001
+PMID: 34627736 [Indexed for MEDLINE]
+
+
+6. Psychoneuroendocrinology. 2021 Oct;132:105364. doi: 
+10.1016/j.psyneuen.2021.105364. Epub 2021 Jul 21.
+
+Effects of paroxetine treatment and its withdrawal on neurosteroidogenesis.
+
+Giatti S(1), Diviccaro S(1), Cioffi L(1), Falvo E(1), Caruso D(1), Melcangi 
+RC(2).
+
+Author information:
+(1)Dipartimento di Scienze Farmacologiche e Biomolecolari, Università degli 
+Studi di Milano, Milano, Italy.
+(2)Dipartimento di Scienze Farmacologiche e Biomolecolari, Università degli 
+Studi di Milano, Milano, Italy. Electronic address: roberto.melcangi@unimi.it.
+
+Selective serotonin reuptake inhibitors (SSRI) show high efficacy in treating 
+depression, however during treatment side effects, like for instance sexual 
+dysfunction, may appear, decreasing compliance. In some cases, this condition 
+will last after drug discontinuation, leading to the so-called post-SSRI sexual 
+dysfunction (PSSD). The etiology of PSSD is still unknown, however a role for 
+neuroactive steroids may be hypothesized. Indeed, these molecules are key 
+physiological regulators of the nervous system, and their alteration has been 
+associated with several neuropathological conditions, including depression. 
+Additionally, neuroactive steroids are also involved in the control of sexual 
+function. Interestingly, sexual dysfunction induced by SSRI treatment has been 
+also observed in animal models. On this basis, we have here evaluated whether a 
+subchronic treatment with paroxetine for two weeks and/or its withdrawal (i.e., 
+a month) may affect the levels of neuroactive steroids in brain areas (i.e., 
+hippocampus, hypothalamus, and cerebral cortex) and/or in plasma and 
+cerebrospinal fluid of male rats. Data obtained indicate that the SSRI treatment 
+alters neuroactive steroid levels and the expression of key enzymes of the 
+steroidogenesis in a brain tissue- and time-dependent manner. Indeed, these 
+observations with the finding that plasma levels of neuroactive steroids are not 
+affected suggest that the effect of paroxetine treatment is directly on 
+neurosteroidogenesis. In particular, a negative impact on the expression of 
+steroidogenic enzymes was observed at the withdrawal. Therefore, it is possible 
+to hypothesize that altered neurosteroidogenesis may also occur in PSSD and 
+consequently it may represent a possible pharmacological target for this 
+disorder.
+
+Copyright © 2021 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.psyneuen.2021.105364
+PMID: 34325207 [Indexed for MEDLINE]
+
+
+7. Int J Risk Saf Med. 2021;32(4):321-329. doi: 10.3233/JRS-210039.
+
+Characterizing post-SSRI sexual dysfunction and its impact on quality of life 
+through an international online survey.
+
+Studt A(1), Gannon M(1), Orzel J(1), Vaughan A(1), Pearlman AM(1).
+
+Author information:
+(1)Department of Urology, University of Iowa, Iowa City, IA, USA.
+
+BACKGROUND: Post-SSRI sexual dysfunction (PSSD) is an underrecognized and poorly 
+understood medical condition characterized by sexual dysfunction that persists 
+despite SSRI discontinuation.
+OBJECTIVE: We conducted a survey of individuals with PSSD to better characterize 
+this condition and its impact on various quality of life concerns.
+METHODS: Surveys were distributed to an online support group for individuals 
+with PSSD. Surveys assessed medications suspected of causing PSSD and symptoms 
+experienced during and after treatment. Respondents reported the trajectory of 
+their condition, the efficacy of different treatments, and the impact of PSSD on 
+their quality of life.
+RESULTS: 239 survey responses were included in this study. A majority of 
+respondents had a history of SSRI use (92%) compared to only SNRI or atypical 
+antidepressant use (8%). The overall severity of symptoms improved for 45% and 
+worsened or remained the same for 37% of respondents after discontinuing 
+treatment with serotonin reuptake inhibitors. Only 12% of respondents reported 
+being counseled regarding potential sexual dysfunction while taking 
+antidepressants. The majority rated the effect of PSSD on their quality of life 
+as extremely negative (59%) or very negative (23%).
+CONCLUSION: PSSD can have an overwhelmingly negative impact on quality of life. 
+Currently, it is unclear why certain individuals develop PSSD and there are no 
+definitive treatments for this condition. Further research of PSSD and greater 
+awareness of this condition is needed among prescribers of serotonin reuptake 
+inhibitors to improve patient care.
+
+DOI: 10.3233/JRS-210039
+PMID: 34366299 [Indexed for MEDLINE]
+
+
+8. Int J Risk Saf Med. 2021;32(3):229-242. doi: 10.3233/JRS-200074.
+
+Exposure to serotonin selective reuptake inhibitors or serotonin noradrenaline 
+reuptake inhibitors and sexual dysfunction: Results from an online survey.
+
+Patacchini A(1), Cosci F(1)(2)(3).
+
+Author information:
+(1)Department of Health Sciences, University of Florence, Florence, Italy.
+(2)Clinical Pharmacopsychology Laboratory, University of Florence, Florence, 
+Italy.
+(3)Department of Psychiatry and Neuropsychology, Maastricht University, 
+Maastricht, The Netherlands.
+
+BACKGROUND: Post-SSRI Sexual Dysfunction (PSSD) is characterized by sexual and 
+emotional symptoms associated to the exposure to Selective Serotonin Reuptake 
+Inhibitors (SSRI) or Serotonin Noradrenaline Reuptake Inhibitors (SNRI).
+OBJECTIVE: The present study provides a comprehensive picture on demographic and 
+clinical characteristics associated to PSSD.
+METHODS: An online survey was run on subjects self-declaring as affected by 
+PSSD. The survey collected socio-demographic and clinical data via questions 
+created ad hoc and three standardized scales (Arizona Sexual Experiences Scale, 
+Hospital Anxiety and Depression Scale, World Health Organization Wellbeing 
+Index).
+RESULTS: A total of 135 subjects (115 males; mean age 31.9 ± 8.9 years) was 
+analysed. The syndrome was more represented among young, heterosexual males 
+after the exposure to SSRI/SNRI at relatively high doses. The major findings 
+involved the temporal sequence of symptoms: 118 subjects had symptoms both 
+during and after SSRI/SNRI administration, and 17 only after, thus deposing for 
+a iatrogenic action of SSRI/SNRI. Different variables, represented by both 
+emotional and sexual symptoms, accounted for the variability of the severity of 
+the sexual dysfunction as well as of wellbeing.
+CONCLUSIONS: Based on the present results, PSSD is a complex iatrogenic syndrome 
+in need of being further studied and understood.
+
+DOI: 10.3233/JRS-200074
+PMID: 33579876 [Indexed for MEDLINE]
+
+
+9. Med J Aust. 2020 Apr;212(7):329-334. doi: 10.5694/mja2.50522. Epub 2020 Mar 15.
+
+Antidepressant-induced sexual dysfunction.
+
+Rothmore J(1).
+
+Author information:
+(1)Drug and Therapeutics Information Service, Southern Adelaide Local Health 
+Network, Adelaide, SA.
+
+Sexual dysfunction is a frequent, potentially distressing, adverse effect of 
+antidepressants and a leading cause of medication non-adherence. Sexual function 
+should be actively assessed at baseline, at regular intervals during treatment, 
+and after treatment cessation. Trials comparing the risk of sexual dysfunction 
+with individual antidepressants are inadequate, but it is reasonable to conclude 
+that the risk is greatest with selective serotonin reuptake inhibitors (SSRIs) 
+and serotonin and noradrenaline reuptake inhibitors (SNRIs), less with tricyclic 
+antidepressants (except clomipramine) and mirtazapine, and least with 
+moclobemide, agomelatine, reboxetine and bupropion. Management of 
+antidepressant-induced sexual dysfunction requires an individualised approach 
+(eg, considering other causes, dose reduction, addition of medication to treat 
+the adverse effect, switching to a different antidepressant). Post-SSRI sexual 
+dysfunction has been recently identified as a potential, although rare, adverse 
+effect of SSRIs and SNRIs. Consider the possibility of post-SSRI sexual 
+dysfunction in patients in whom sexual dysfunction was absent before starting 
+antidepressants but develops during or soon after antidepressant treatment and 
+still persists after remission from depression and discontinuation of the drug.
+
+© 2020 AMPCo Pty Ltd.
+
+DOI: 10.5694/mja2.50522
+PMID: 32172535 [Indexed for MEDLINE]
+
+
+10. J R Soc Med. 2020 Apr;113(4):133-135. doi: 10.1177/0141076819899299. Epub 2020 
+Jan 23.
+
+Antidepressants and sexual dysfunction: a history.
+
+Healy D(1).
+
+Author information:
+(1)Department of Psychiatry, Bangor University, Wales LL57 2PW, UK.
+
+DOI: 10.1177/0141076819899299
+PMCID: PMC7160790
+PMID: 31972096 [Indexed for MEDLINE]
+
+
+11. Bioelectricity. 2020 Mar 1;2(1):7-13. doi: 10.1089/bioe.2019.0010. Epub 2020 Mar 
+18.
+
+Post-SSRI Sexual Dysfunction: A Bioelectric Mechanism?
+
+Healy D(1), LaPalme J(2), Levin M(2).
+
+Author information:
+(1)Hergest Unit, Department of Psychiatry, Bangor University, Bangor, Wales.
+(2)Allen Discovery Center, Tufts University, Medford, Massachusetts.
+
+Selective serotonin reuptake inhibitor (SSRI) drugs, targeting serotonin 
+transport, are widely used. A puzzling and biomedically important phenomenon 
+concerns the persistent sexual dysfunction following SSRI use seen in some 
+patients. What could be the mechanism of a persistent physiological state 
+brought on by a transient exposure to serotonin transport blockers? In this 
+study, we briefly review the clinical facts concerning this side effect of 
+serotonin reuptake inhibitors and suggest a possible mechanism. Bioelectric 
+circuits (among neural or non-neural cells) could persistently maintain 
+alterations of bioelectric cell properties (resting potential), resulting in 
+long-term changes in electrophysiology and signaling. We present new data 
+revealing this phenomenon in planarian flatworms, in which brief SSRI exposures 
+induce long-lasting changes in resting potential profile. We also briefly review 
+recent data linking neurotransmitter signaling to developmental bioelectrics. 
+Further study of tissue bioelectric memory could enable the design of 
+ionoceutical interventions to counteract side effects of SSRIs and similar 
+drugs.
+
+Copyright 2020, Mary Ann Liebert, Inc., publishers.
+
+DOI: 10.1089/bioe.2019.0010
+PMCID: PMC8370302
+PMID: 34471832
+
+Conflict of interest statement: No competing financial interests exist.
+
+
+12. BMJ. 2020 Feb 27;368:m754. doi: 10.1136/bmj.m754.
+
+Post-SSRI sexual dysfunction.
+
+Reisman Y(1).
+
+Author information:
+(1)Flare-Health, Amsterdam, Netherlands.
+
+DOI: 10.1136/bmj.m754
+PMID: 32107204 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: The BMJ has judged that 
+there are no disqualifying financial ties to commercial companies. The authors 
+declare the following other interests: YR has received a speaking honorarium 
+from Besins Health Care and travel funding from Coloplast Netherlands to give a 
+lecture during a symposium sponsored by Coloplast. These lectures are not 
+related to the content of this editorial. He was president of the European 
+Society for Sexual Medicine (ESSM), a non-profit scientific organisation, during 
+2018-19. The BMJ policy on financial interests is here: 
+https://www.bmj.com/sites/default/files/attachments/resources/2016/03/16-current-bmj-education-coi-form.pdf.
+
+
+13. J Clin Psychopharmacol. 2020 Jan/Feb;40(1):93-95. doi: 
+10.1097/JCP.0000000000001154.
+
+A Paradigmatic Case of Postselective Serotonin Reuptake Inhibitors Sexual 
+Dysfunction or Withdrawal After Discontinuation of Selective Serotonin Reuptake 
+Inhibitors?
+
+Patacchini A, Cosci F.
+
+DOI: 10.1097/JCP.0000000000001154
+PMID: 31834096 [Indexed for MEDLINE]
+
+
+14. BMJ. 2019 Oct 2;367:l5777. doi: 10.1136/bmj.l5777.
+
+Clinical judgments, not algorithms, are key to patient safety-an essay by David 
+Healy and Dee Mangin.
+
+Healy D(1), Mangin D(2).
+
+Author information:
+(1)Department of Psychiatry, Bangor University, Wales.
+(2)Department of Family Medicine, McMaster University, Ontario.
+
+DOI: 10.1136/bmj.l5777
+PMID: 31578186
+
+Conflict of interest statement: Competing interests: DH is an expert in a legal 
+case involving antidepressant withdrawal. DM is a member of the Integrated 
+Patient Safety Action Plan Medication Safety Leads Group, Patients for Patient 
+Safety, Canada.
+
+
+15. Epidemiol Psychiatr Sci. 2019 Sep 23;29:e56. doi: 10.1017/S2045796019000520.
+
+Persistent adverse effects of antidepressants.
+
+Moncrieff J(1).
+
+Author information:
+(1)Division of Psychiatry, University College London, Gower street, London, WC1E 
+6BT, UK.
+
+DOI: 10.1017/S2045796019000520
+PMCID: PMC8061256
+PMID: 31543093 [Indexed for MEDLINE]
+
+Conflict of interest statement: None.
+
+
+16. Epidemiol Psychiatr Sci. 2019 Sep 23;29:e55. doi: 10.1017/S2045796019000519.
+
+Post-SSRI sexual dysfunction & other enduring sexual dysfunctions.
+
+Healy D(1).
+
+Author information:
+(1)Bangor University, Psychiatry, Bangor, Gwynedd, UK.
+
+Enduring sexual difficulties following treatment with selective serotonin 
+reuptake inhibitor antidepressants have been reported to regulators since 1991, 
+but it was only in 2006 that a formal post-SSRI sexual dysfunction syndrome was 
+reported. The clinical, research and regulatory implications of this syndrome 
+are considerable and researchers using epidemiological methods are well placed 
+to map out the contours of the problem and perhaps pinpoint possible treatments.
+
+DOI: 10.1017/S2045796019000519
+PMCID: PMC8061302
+PMID: 31543091 [Indexed for MEDLINE]
+
+Conflict of interest statement: None.
+
+
+17. Int J Risk Saf Med. 2019;30(3):167-178. doi: 10.3233/JRS-191005.
+
+Post-SSRI sexual dysfunction: Patient experiences of engagement with healthcare 
+professionals.
+
+Healy D(1), Le Noury J(1), Mangin D(2).
+
+Author information:
+(1)North Wales Department of Psychological Medicine, Bangor, Wales, UK.
+(2)David Braley and Nancy Gordon Chair of Family Medicine, Department of Family 
+Medicine, McMaster University, Hamilton, ON, Canada.
+
+OBJECTIVE: A petition to the European Medicines Agency provided an opportunity 
+to collect reports of a specific adverse event from patients and healthcare 
+professionals, along with details of clinicians' attitudes when asked to endorse 
+patient reports.
+METHODS: We approached a cohort of patients reporting post-SSRI sexual 
+dysfunction (PSSD) to an adverse event reporting website, RxISK.org. The 
+responses of patients on their interactions with healthcare professionals were 
+subject to a qualitative analysis.
+RESULTS: A total of 62 participants from 23 countries provided details of their 
+experiences. While some had received support and validation of their condition, 
+many described a number of difficulties including a lack of awareness or 
+knowledge about PSSD, not being listened to, receiving unsympathetic or 
+inappropriate responses, and a refusal to engage with the published medical 
+literature.
+CONCLUSIONS: Healthcare professionals are nervous about or reluctant to engage 
+with novel problems on a treatment. This is not widely appreciated and the 
+reasons for this concern are not understood.
+
+DOI: 10.3233/JRS-191005
+PMID: 31450514 [Indexed for MEDLINE]
+
+
+18. J Sex Marital Ther. 2019;45(6):562-565. doi: 10.1080/0092623X.2018.1556755. Epub 
+2019 Feb 13.
+
+Towards Improving Post-SSRI Sexual Dysfunction by Using Nutriceuticals: Lessons 
+from a Case Study.
+
+Calabrò RS(1), De Luca R(1), Manuli A(1), Portaro S(1), Naro A(1), Quattrini 
+F(2).
+
+Author information:
+(1)a IRCCS Centro Neurolesi "Bonino-Pulejo" , Messina , Italy.
+(2)b DISCAB, University of L'Aquila , L'Aquila , Italy.
+
+Post-selective serotonin reuptake inhibitors (SSRIs) sexual dysfunction (PSSD) 
+is a new clinical entity occurring after the antidepressant intake, and it is 
+characterized by the fact that patients continue to present sexual side effects 
+after the discontinuation of the drugs. PSSD mainly consists of hypo-anesthesia 
+of the genital area, loss of libido, and erectile dysfunction. Although 
+different management options have been proposed, there is no consensus on the 
+treatment for this syndrome. Herein we report on a young man affected by PSSD 
+who regained sexual functioning after 3-month treatment with EDOVIS, a dietary 
+supplement containing L-citrulline and other commonly used aphrodisiacs. 
+Clinicians should be aware about the possibility of persistent sexual side 
+effects induced by serotoninergic antidepressants and take into considerations 
+the use of nutraceuticals to overcome PSSD.
+
+DOI: 10.1080/0092623X.2018.1556755
+PMID: 30640584 [Indexed for MEDLINE]
+
+
+19. Endocrine. 2018 Aug;61(2):180-193. doi: 10.1007/s12020-018-1593-5. Epub 2018 Apr 
+19.
+
+Post-finasteride syndrome and post-SSRI sexual dysfunction: two sides of the 
+same coin?
+
+Giatti S(1), Diviccaro S(1), Panzica G(2), Melcangi RC(3).
+
+Author information:
+(1)Dipartimento di Scienze Farmacologiche e Biomolecolari, Università degli 
+Studi di Milano, Milan, Italy.
+(2)Dipartimento di Neuroscienze "Rita Levi Montalcini", Università degli studi 
+di Torino, Neuroscience Institute Cavallieri Ottolenghi (NICO), Orbassano, 
+Italy.
+(3)Dipartimento di Scienze Farmacologiche e Biomolecolari, Università degli 
+Studi di Milano, Milan, Italy. roberto.melcangi@unimi.it.
+
+Sexual dysfunction is a clinical condition due to different causes including the 
+iatrogenic origin. For instance, it is well known that sexual dysfunction may 
+occur in patients treated with antidepressants like selective serotonin reuptake 
+inhibitors (SSRI). A similar side effect has been also reported during treatment 
+with finasteride, an inhibitor of the enzyme 5alpha-reductase, for androgenetic 
+alopecia. Interestingly, sexual dysfunction persists in both cases after drug 
+discontinuation. These conditions have been named post-SSRI sexual dysfunction 
+(PSSD) and post-finasteride syndrome (PFS). In particular, feeling of a lack of 
+connection between the brain and penis, loss of libido and sex drive, difficulty 
+in achieving an erection and genital paresthesia have been reported by patients 
+of both conditions. It is interesting to note that the incidence of these 
+diseases is probably so far underestimated and their etiopathogenesis is not 
+sufficiently explored. To this aim, the present review will report the state of 
+art of these two different pathologies and discuss, on the basis of the role 
+exerted by three different neuromodulators such as dopamine, serotonin and 
+neuroactive steroids, whether the persistent sexual dysfunction observed could 
+be determined by common mechanisms.
+
+DOI: 10.1007/s12020-018-1593-5
+PMID: 29675596 [Indexed for MEDLINE]
+
+
+20. Int J Genomics. 2018 Jul 25;2018:8929057. doi: 10.1155/2018/8929057. eCollection 
+2018.
+
+The Effect of Citalopram on Genome-Wide DNA Methylation of Human Cells.
+
+Kanherkar RR(1), Getachew B(2), Ben-Sheetrit J(3), Varma S(4), Heinbockel T(1), 
+Tizabi Y(2), Csoka AB(1).
+
+Author information:
+(1)Epigenetics Laboratory, Department of Anatomy, Howard University, 520 W St. 
+NW, Washington, DC 20059, USA.
+(2)Department of Pharmacology, Howard University, 520 W St. NW, Washington, DC 
+20059, USA.
+(3)Tel-Aviv Brüll Community Mental Health Center, Clalit Health Services, 9 
+Hatzvi St., 6719709 Tel-Aviv, Israel.
+(4)HiThru Analytics LLC, 1001 Spring St. No. 219, Silver Spring, MD 20910, USA.
+
+Commonly used pharmaceutical drugs might alter the epigenetic state of cells, 
+leading to varying degrees of long-term repercussions to human health. To test 
+this hypothesis, we cultured HEK-293 cells in the presence of 50 μM citalopram, 
+a common antidepressant, for 30 days and performed whole-genome DNA methylation 
+analysis using the NimbleGen Human DNA Methylation 3x720K Promoter Plus CpG 
+Island Array. A total of 626 gene promoters, out of a total of 25,437 queried 
+genes on the array (2.46%), showed significant differential methylation (p < 
+0.01); among these, 272 were hypomethylated and 354 were hypermethylated in 
+treated versus control. Using Ingenuity Pathway Analysis, we found that the 
+chief gene networks and signaling pathways that are differentially regulated 
+include those involved in nervous system development and function and cellular 
+growth and proliferation. Genes implicated in depression, as well as genetic 
+networks involving nucleic acid metabolism, small molecule biochemistry, and 
+cell cycle regulation were significantly modified. Involvement of upstream 
+regulators such as BDNF, FSH, and NFκB was predicted based on differential 
+methylation of their downstream targets. The study validates our hypothesis that 
+pharmaceutical drugs can have off-target epigenetic effects and reveals affected 
+networks and pathways. We view this study as a first step towards understanding 
+the long-term epigenetic consequences of prescription drugs on human health.
+
+DOI: 10.1155/2018/8929057
+PMCID: PMC6083487
+PMID: 30148158
+
+
+21. Sex Med Rev. 2018 Apr;6(2):217-223. doi: 10.1016/j.sxmr.2017.11.004. Epub 2018 
+Feb 17.
+
+Post-SSRI Sexual Dysfunction: Preclinical to Clinical. Is It Fact or Fiction?
+
+Coskuner ER(1), Culha MG(2), Ozkan B(3), Kaleagasi EO(4).
+
+Author information:
+(1)Department of Urology, Acibadem Mehmet Ali Aydinlar University School of 
+Medicine, Istanbul, Turkey. Electronic address: enisraufcoskuner@hotmail.com.
+(2)Department of Urology, Health Sciences University, Okmeydani Training and 
+Research Hospital, Istanbul, Turkey.
+(3)Department of Urology, Acibadem Mehmet Ali Aydinlar University School of 
+Medicine, Istanbul, Turkey.
+(4)Department of Psychology, Acibadem Bakirkoy Hospital, Istanbul, Turkey.
+
+INTRODUCTION: Selective serotonin reuptake inhibitors (SSRIs) are a widely used 
+class of drug for various psychiatric disorders during the lifespan, including 
+pregnancy, lactation, childhood, and adolescence. Deterioration in sexual 
+functioning is a major and serious adverse effect of SSRIs. There is emerging 
+evidence that SSRIs can have long-lasting effects on sexuality.
+AIM: To summarize the long-lasting effects of SSRIs on sexuality, starting with 
+animal models and continuing with the clinical experience of different 
+investigators.
+METHOD: A literature review of relevant publications in PubMed.
+MAIN OUTCOME MEASURES: To assess the long-lasting effects of SSRIs on sexuality.
+RESULTS: Although the persistent effects of SSRIs on sexuality have been little 
+studied in humans, animal studies suggest that SSRIs might cause permanent 
+sexual dysfunction after ending SSRI exposure at a young age but not in 
+adulthood in rats. There are no prospective randomized controlled trials in 
+humans and the present evidence is derived from case reports, incidental 
+research findings, and experiences of some internet communities.
+CONCLUSION: There is some preclinical evidence from animal studies for enduring 
+SSRI-induced sexual dysfunction, but the available clinical information could 
+prevent a clear decision about the existence of post-SSRI sexual dysfunction, 
+its pathophysiology, and its management. We need more research to fill in the 
+gaps in our knowledge. Coskuner ER, Culha MG, Ozkan B, Kaleagasi EO. Post-SSRI 
+Sexual Dysfunction: Preclinical to Clinical. Is It Fact or Fiction? Sex Med Rev 
+2018;6:217-223.
+
+Copyright © 2017 International Society for Sexual Medicine. Published by 
+Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.sxmr.2017.11.004
+PMID: 29463440 [Indexed for MEDLINE]
+
+
+22. Int J Risk Saf Med. 2018;29(3-4):135-147. doi: 10.3233/JRS-180745.
+
+Citizen petition: Sexual side effects of SSRIs and SNRIs.
+
+Healy D(1).
+
+Author information:
+(1)Data Based Medicine Americas Ltd., 95 Sandringham Drive, Toronto, Ontario, 
+Canada, M3H 1E1. Email: david.healy@rxisk.org.
+
+DOI: 10.3233/JRS-180745
+PMCID: PMC6004927
+PMID: 29733031 [Indexed for MEDLINE]
+
+
+23. Int J Risk Saf Med. 2018;29(3-4):125-134. doi: 10.3233/JRS-180744.
+
+Enduring sexual dysfunction after treatment with antidepressants, 5α-reductase 
+inhibitors and isotretinoin: 300 cases.
+
+Healy D(1), Le Noury J(1), Mangin D(2).
+
+Author information:
+(1)North Wales Department of Psychological Medicine, Bangor, Wales, UK.
+(2)David Braley and Nancy Gordon Chair of Family Medicine, Department of Family 
+Medicine, McMaster University, ON, Canada.
+
+OBJECTIVE: To investigate clinical reports of post-SSRI sexual dysfunction 
+(PSSD), post-finasteride syndrome (PFS) and enduring sexual dysfunction 
+following isotretinoin.
+METHODS: Data from RxISK.org, a global adverse event reporting website, have 
+been used to establish the clinical features, demographic details and clinical 
+trajectories of syndromes of persistent sexual difficulties following three 
+superficially different treatment modalities.RESULTSWe report on 300 cases of 
+enduring sexual dysfunction from 37 countries following 14 different drugs 
+comprised of serotonin reuptake inhibiting antidepressants, 5α-reductase 
+inhibitors and isotretinoin. While reports of certain issues were unique to the 
+antidepressants, such as the onset of premature ejaculation and persistent 
+genital arousal disorder (PGAD), there was also a significant overlap in symptom 
+profile between the drug groups, with common features including genital 
+anaesthesia, pleasureless or weak orgasm, loss of libido and impotence. 
+Secondary consequences included relationship breakdown and impaired quality of 
+life.CONCLUSIONSThese data point to a legacy syndrome or syndromes comprising a 
+range of disturbances to sexual function. More detailed studies will require 
+developments in coding systems that recognise the condition(s). Further 
+exploration of these tardive sexual syndromes may yield greater understanding of 
+tardive syndromes in general.
+
+DOI: 10.3233/JRS-180744
+PMCID: PMC6004900
+PMID: 29733030 [Indexed for MEDLINE]
+
+
+24. Sex Med Rev. 2018 Jan;6(1):29-34. doi: 10.1016/j.sxmr.2017.07.002. Epub 2017 Aug 
+1.
+
+Post-SSRI Sexual Dysfunction: A Literature Review.
+
+Bala A(1), Nguyen HMT(1), Hellstrom WJG(2).
+
+Author information:
+(1)Department of Urology, Tulane University School of Medicine, New Orleans, LA, 
+USA.
+(2)Department of Urology, Tulane University School of Medicine, New Orleans, LA, 
+USA. Electronic address: whellst@tulane.edu.
+
+INTRODUCTION: Selective serotonin reuptake inhibitors (SSRIs) are a widely used 
+class of drug. Post-SSRI sexual dysfunction (PSSD) is a condition in which 
+patients continue to have sexual side effects after discontinuation of SSRI use. 
+The prevalence of persistent sexual side effects after discontinuing SSRIs is 
+unknown. The recognition and study of PSSD will increase our knowledge base of 
+this underreported and distressing condition.
+AIM: To provide coverage of the current literature on PSSD, update information 
+on the pathophysiology of PSSD, and discuss potential management options.
+METHODS: Comprehensive review of literature pertaining to PSSD.
+MAIN OUTCOME MEASURES: The symptoms, classification, pathophysiology, diagnostic 
+considerations, and management of PSSD were reviewed.
+RESULTS: Common PSSD symptoms include genital anesthesia, pleasure-less or weak 
+orgasm, decreased sex drive, erectile dysfunction, and premature ejaculation. 
+Different theories have been proposed to explain the pathophysiology of PSSD: 
+epigenetic gene expression theory, cytochrome actions, dopamine-serotonin 
+interactions, proopiomelanocortin and melanocortin effects, serotonin 
+neurotoxicity, downregulation of 5-hydroxytryptamine receptor 1A, and hormonal 
+changes in the central and peripheral nervous systems. The diagnosis of PSSD is 
+achieved by excluding all other etiologies of sexual dysfunction. Treating PSSD 
+is challenging, and many strategies have been suggested and tried, including 
+serotonergic antagonists and dopaminergic agonists. There is still no definitive 
+treatment for PSSD. Low-power laser irradiation and phototherapy have shown some 
+promising results.
+CONCLUSION: PSSD is a debilitating condition that adversely affects quality of 
+life. Further studies are warranted to investigate the prevalence, 
+pathophysiology, and treatment of PSSD. Bala A, Nguyen HMT, Hellstrom WJG. 
+Post-SSRI Sexual Dysfunction: A Literature Review. Sex Med Rev 2018;6:29-34.
+
+Copyright © 2017 International Society for Sexual Medicine. Published by 
+Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.sxmr.2017.07.002
+PMID: 28778697 [Indexed for MEDLINE]
+
+
+25. Sex Med Rev. 2017 Oct;5(4):429-433. doi: 10.1016/j.sxmr.2017.05.002. Epub 2017 
+Jun 20.
+
+Sexual Consequences of Post-SSRI Syndrome.
+
+Reisman Y(1).
+
+Author information:
+(1)Amstelland Hospital, Amstelveen, The Netherlands. Electronic address: 
+uro.amsterdam@gmail.com.
+
+INTRODUCTION: Sexual dysfunctions are well-known side effects of selective 
+serotonin reuptake inhibitor (SSRI) use. Altered libido, erectile dysfunction, 
+vaginal dryness, ejaculatory disorders, and orgasmic problems are frequently 
+reported by patients treated with SSRIs. Moreover, these antidepressant-emergent 
+sexual dysfunctions do not always resolve after discontinuation of the 
+medication and can persist indefinitely. These complaints are termed post-SSRI 
+sexual dysfunctions (PSSD).
+AIM: To examine the existence of this clinical entity, possible theoretical 
+mechanisms, possible risk factors, and possible treatment modalities.
+METHODS: Through literature research and clinical experience, the available 
+information about PSSD is reviewed.
+MAIN OUTCOME MEASURES: Summary of the current literature with insights into 
+possible causes and management options.
+RESULTS: There are some indications that antidepressant-emergent sexual 
+dysfunctions do not always resolve after discontinuation of the medication and 
+can persist indefinitely in some individuals. Although some or all sexual side 
+effects that start with the use of SSRIs might continue after stopping the 
+medication, other sexual complaints can develop. Decreased capacity to 
+experience sexual pleasure is the most frequent characteristic of this syndrome.
+CONCLUSION: The research and understanding of PSSD remain limited and not well 
+understood; however, the data support the existence of PSSD, which can have a 
+substantial effect on the quality of life of these patients. More research is 
+warranted to show the cause and possible mechanisms of PSSD that could lead to 
+the correct diagnosis and treatment. Reisman Y. Sexual Consequences of Post-SSRI 
+Syndrome. Sex Med Rev 2017;5:429-433.
+
+Copyright © 2017 International Society for Sexual Medicine. Published by 
+Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.sxmr.2017.05.002
+PMID: 28642048 [Indexed for MEDLINE]
+
+
+26. Int J Risk Saf Med. 2016 Mar 16;28(1):1-12. doi: 10.3233/JRS-160668.
+
+Persistent sexual dysfunction after early exposure to SSRIs: Systematic review 
+of animal studies.
+
+Simonsen AL, Danborg PB, Gøtzsche PC.
+
+BACKGROUND: Sexual dysfunction is a common adverse effect of selective serotonin 
+reuptake inhibitors (SSRIs) and there is a concern that the sexual harms might 
+persist after discontinuation of therapy.
+OBJECTIVE: To assess whether the use of SSRIs in animals can lead to persistent 
+sexual dysfunction.
+METHODS: Systematic review of animal studies measuring sexual behaviour after 
+end of treatment with SSRIs or serotonin norepinephrine reuptake inhibitors.
+DATA SOURCES: We searched PubMed and EMBASE.
+RESULTS: We included 14 studies. The general quality of the studies was poor. 
+Only four studies reported use of randomisation and none mentioned allocation 
+concealment. All studies used placebo and were therefore blinded. For rats 
+exposed to SSRIs compared with those exposed to placebo, we found a higher risk 
+of no mounting behaviour (RR = 0.73; 95% CI = 0.62-0.86), no intromission 
+behaviour (RR = 0.74; 95% CI = 0.60-0.92) and no ejaculation behaviour 
+(RR = 0.49, 95% CI = 0.24-1.00).
+CONCLUSION: Our results showed substantial and lasting effects on sexual 
+behaviour in rats after exposure to an SSRI early in life on important sexual 
+outcomes.
+
+DOI: 10.3233/JRS-160668
+PMID: 27176752 [Indexed for MEDLINE]
+
+
+27. J Clin Psychopharmacol. 2015 Jun;35(3):273-8. doi: 10.1097/JCP.0000000000000300.
+
+Post-SSRI Sexual Dysfunction: Clinical Characterization and Preliminary 
+Assessment of Contributory Factors and Dose-Response Relationship.
+
+Ben-Sheetrit J(1), Aizenberg D, Csoka AB, Weizman A, Hermesh H.
+
+Author information:
+(1)From the *Geha Mental Health Center, Petah Tikva; †Sackler Faculty of 
+Medicine, Tel Aviv University, Tel Aviv, Israel; and ‡Department of Anatomy, 
+School of Medicine, Howard University, Washington D.C.
+
+Emerging evidence suggests that sexual dysfunction emerging during treatment 
+with selective serotonin reuptake inhibitors (SSRIs) and/or 
+serotonin-norepinephrine reuptake inhibitors (SNRIs) persists in some patients 
+beyond drug discontinuation (post-SSRI sexual dysfunction [PSSD]). We sought to 
+identify and characterize a series of such cases and explore possible 
+explanatory factors and exposure-response relationship. Subjects who responded 
+to an invitation in a forum dedicated to PSSD filled out a survey via online 
+software. Case probability was defined according to the following 3 categories 
+of increasing presumed likelihood of PSSD. Noncases did not meet the criteria 
+for possible cases. Possible cases were subjects with normal pretreatment sexual 
+function who first experienced sexual disturbances while using a single 
+SSRI/SNRI, which did not resolve upon drug discontinuation for 1 month or longer 
+as indicated by Arizona Sexual Experience Scale scores. High-probability cases 
+were also younger than 50-year-olds; did not have confounding medical 
+conditions, medications, or drug use; and had normal scores on the Hospital 
+Anxiety and Depression Scale. Five hundred thirty-two (532) subjects completed 
+the survey, among which 183 possible cases were identified, including 23 
+high-probability cases. Female sex, genital anesthesia, and depression predicted 
+current sexual dysfunction severity, but dose/defined daily dose ratio and 
+anxiety did not. Genital anesthesia did not correlate with depression or 
+anxiety, but pleasureless orgasm was an independent predictor of both depression 
+and case probability. Limitations of the study include retrospective design and 
+selection and report biases that do not allow generalization or estimation of 
+incidence. However, our findings add to previous reports and support the 
+existence of PSSD, which may not be fully explained by alternative 
+nonpharmacological factors related to sexual dysfunction, including depression 
+and anxiety.
+
+DOI: 10.1097/JCP.0000000000000300
+PMID: 25815755 [Indexed for MEDLINE]
+
+
+28. Eur J Pharmacol. 2015 Apr 15;753:263-8. doi: 10.1016/j.ejphar.2014.11.031. Epub 
+2014 Dec 4.
+
+Penile anesthesia in Post SSRI Sexual Dysfunction (PSSD) responds to low-power 
+laser irradiation: a case study and hypothesis about the role of transient 
+receptor potential (TRP) ion channels.
+
+Waldinger MD(1), van Coevorden RS(2), Schweitzer DH(3), Georgiadis J(4).
+
+Author information:
+(1)Division of Pharmacology, Utrecht Institute for Pharmaceutical Sciences, 
+Faculty of BetaSciences, Utrecht University, Universiteitslaan 99, 3584 CG 
+Utrecht, The Netherlands; Private Practice Psychiatry and Neurosexology, 
+Amstelveen, The Netherlands. Electronic address: md@waldinger.demon.nl.
+(2)Medisch Centrum Buitenveldert, Amsterdam, The Netherlands.
+(3)Department of Internal Medicine and Endocrinology, Reinier de Graaf Groep of 
+Hospitals, Delft-Voorburg, The Netherlands.
+(4)Department of Neuroscience, Section Anatomy, University Medical Center 
+Groningen, University of Groningen, Groningen, The Netherlands.
+
+Treatment of paroxetine-induced penile anesthesia in Post SSRI Sexual 
+Dysfunction (PSSD) by Low-power Laser Irradiation (LPLI) is unknown in medical 
+literature. The aim of the current article is to report partial efficacy of LPLI 
+for paroxetine-induced persistent penile anesthesia. We report on a male patient 
+who presented with a history of reversible loss of smell, taste and skin 
+sensitivity occurring within a week after start of 20mg/day 
+paroxetine-hemihydrate for a depressive period. Concurrently, patient suffered 
+from penile anesthesia, scrotum hypesthesia, anejaculation and erectile 
+difficulties with normal sexual desire. During 2.5 years of paroxetine treatment 
+and throughout 2 years after paroxetine discontinuation, genital and sexual 
+complaints persisted. Penile anesthesia was treated by LPLI with single and 
+multi diode pulsed laser probes. After 20 LPLI-treatment sessions of 15min each, 
+patient reported partial return of penile touch and temperature sensation. 
+Clinical improvement of glans penis sensitivity was reported to 20% and 40%, 
+compared to pre-paroxetine treatment penile sensitivity during erect and flaccid 
+states, respectively. However, anejaculation and erectile difficulties remained 
+unchanged. Briefly, in the current patient with early onset of PSSD, LPLI 
+treatment reduced paroxetine-induced penile anesthesia. It is hypothesized that 
+SSRI treatment induces disturbances of transient receptor potential (TRP) ion 
+channels of mechano-, thermo- and chemosensitive nerve endings and receptors 
+resulting in the penile anesthesia in PSSD. It is further hypothesized that 
+there are two types of PSSD, one of which occurs soon after the start of SSRI 
+treatment.
+
+Copyright © 2014 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.ejphar.2014.11.031
+PMID: 25483212 [Indexed for MEDLINE]
+
+
+29. Handb Clin Neurol. 2015;130:469-89. doi: 10.1016/B978-0-444-63247-0.00027-4.
+
+Psychiatric disorders and sexual dysfunction.
+
+Waldinger MD(1).
+
+Author information:
+(1)Division of Pharmacology, Utrecht Institute for Pharmaceutical Sciences, 
+Faculty of BetaSciences, Utrecht University, Utrecht, The Netherlands. 
+Electronic address: md@waldinger.demon.nl.
+
+Sexual problems are highly prevalent among patients with psychiatric disorders. 
+They may be caused by the psychopathology of the psychiatric disorder but also 
+by its pharmacotherapy. Both positive symptoms (e.g., psychosis, hallucinations) 
+as well as negative symptoms (e.g., anhedonia) of schizophrenia may negatively 
+interfere with interpersonal and sexual relationships. Atypical antipsychotics 
+have fewer sexual side-effects than the classic antipsychotics. Mood disorders 
+may affect libido, sexual arousal, orgasm, and erectile function. With the 
+exception of bupropion, agomelatine, mirtazapine, vortioxetine, amineptine, and 
+moclobemide, all antidepressants cause sexual side-effects. Selective serotonin 
+reuptake inhibitors (SSRIs) may particularly delay ejaculation and female 
+orgasm, but also can cause decreased libido and erectile difficulties. 
+SSRI-induced sexual side-effects are dose-dependent and reversible. Very rarely, 
+their sexual side-effects persist after SSRI discontinuation. This is often 
+preceded by genital anesthesia. Some personality characteristics are a risk 
+factor for sexual dysfunction. Also patients with eating disorders may suffer 
+from sexual difficulties. So far, research into psychotropic-induced sexual 
+side-effects suffers from substantial methodologic limitations. Patients tend 
+not to talk with their clinician about their sexual life. Psychiatrists and 
+other doctors need to take the initiative to talk about the patient's sexual 
+life in order to become informed about potential medication-induced sexual 
+difficulties.
+
+© 2015 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/B978-0-444-63247-0.00027-4
+PMID: 26003261 [Indexed for MEDLINE]
+
+
+30. Int J Risk Saf Med. 2014;26(2):109-16. doi: 10.3233/JRS-140617.
+
+One hundred and twenty cases of enduring sexual dysfunction following treatment.
+
+Hogan C(1), Le Noury J(1), Healy D(1), Mangin D(2).
+
+Author information:
+(1)North Wales Department of Psychological Medicine, Bangor, Wales, UK.
+(2)David Braley & Nancy Gordon Chair of Family Medicine, Department of Family 
+Medicine, McMaster University, ON, Canada.
+
+BACKGROUND: There have been reports for over a decade linking serotonin reuptake 
+inhibitors, finasteride and isotretinoin with enduring sexual dysfunction after 
+treatment stops.
+OBJECTIVE: To explore the clinical pictures linked to all 3 drugs.
+METHODS: We have selected 120 reports to RxISK.org reporting the problem and 
+mined these for data on age, gender, drug of use, and impact of the problem.
+RESULTS: The data make it clear that the three drugs show extensive overlap in 
+symptom profile, regardless of sex or country of origin.
+CONCLUSIONS: The availability of 120 reports from over 20 countries add to the 
+case for the validity of the syndrome. This is severe and enduring condition can 
+result in death. An understanding of its physiology and an approach to treatment 
+are needed.
+
+DOI: 10.3233/JRS-140617
+PMID: 24902508 [Indexed for MEDLINE]
+
+
+31. Tijdschr Psychiatr. 2014;56(5):336-40.
+
+[Does sexual dysfunction persist upon discontinuation of selective serotonin 
+reuptake inhibitors?].
+
+[Article in Dutch]
+
+Ekhart GC, van Puijenbroek EP.
+
+BACKGROUND: Cases reported in the literature suggest that in some individuals 
+sexual dysfunction associated with selective serotonin reuptake inhibitors 
+(SSRIS) may persist following the discontinuation of ssris.
+AIM: To find out how many reports of persistent sexual dysfunction associated 
+with the use of ssris were received by the Netherlands Pharmacovigilance Centre, 
+Lareb.
+METHOD: The database of the Netherlands Pharmacovigilance Centre Lareb was 
+searched for reports of sexual dysfunction in patients who had been using SSRIS 
+and whose sexual functioning had not returned to normal at the time of 
+notification.
+RESULTS: The database of the Netherlands Pharmacovigilance Centre Lareb 
+contained 19 reports of persistent sexual dysfunction in patients who had 
+stopped using ssris for two months up to three years and who had not regained 
+normal sexual functioning. The sexual disorders that were reported most 
+frequently were reduced libido, erectile dysfunction and delayed orgasm. It 
+seems likely that these disorders were caused not only by pharmacological 
+effects of ssris but also by psychological factors.
+CONCLUSION: Although it has previously been assumed that patients always regain 
+normal sexual functioning shortly after discontinuation of ssris, emerging 
+evidence suggests that this may not be the case.
+
+PMID: 24838589 [Indexed for MEDLINE]
+
+
+32. Int J STD AIDS. 2009 Jan;20(1):68-9. doi: 10.1258/ijsa.2008.008402.
+
+Persistent sexual dysfunction in genitourinary medicine clinic attendees induced 
+by selective serotonin reuptake inhibitors.
+
+Farnsworth KD, Dinsmore WW.
+
+DOI: 10.1258/ijsa.2008.008402
+PMID: 19103903 [Indexed for MEDLINE]
+
+
+33. J Sex Marital Ther. 2008;34(2):150-9. doi: 10.1080/00926230701636205.
+
+Persistent genital arousal disorder in women: case reports of association with 
+anti-depressant usage and withdrawal.
+
+Leiblum SR(1), Goldmeier D.
+
+Author information:
+(1)Robert Wood Johnson Medical School, Department of Psychiatry, University of 
+Medicine and Dentistry of New Jersey, Piscataway, New Jersey 08854, USA. 
+leiblum@umdnj.edu
+
+Comment in
+    Eur Urol. 2009 May;55(5):1233-5.
+
+Little is known with certitude about the triggers of persistent genital arousal 
+disorder (PGAD) in women, although there appears to be certain common features 
+of the disorder. Women complain of unbidden feelings of genital arousal that are 
+qualitatively different from sexual arousal that is preceded by sexual 
+desire/and or subjective arousal. The majority of women find PGAD distressing 
+and report only brief relief with orgasm. In this article, we describe five 
+women who believe they developed PGAD either after withdrawing from selective 
+serotonin reuptake inhibitor (SSRI) anti-depressants or while using them. We 
+discuss these sexual symptoms in relation to what is already known about 
+prolonged SSRI withdrawal syndromes and the possible etiologies of these 
+conditions. While not a common cause of PGAD, it is possible that use of, and 
+withdrawal from, pharmacological agents contributes to the development of PGAD.
+
+DOI: 10.1080/00926230701636205
+PMID: 18224549 [Indexed for MEDLINE]
+
+
+34. J Sex Med. 2008 Jan;5(1):227-33. doi: 10.1111/j.1743-6109.2007.00630.x.
+
+Persistent sexual dysfunction after discontinuation of selective serotonin 
+reuptake inhibitors.
+
+Csoka AB(1), Bahrick A, Mehtonen OP.
+
+Author information:
+(1)University of Pittsburgh--Medicine, Pittsburgh, PA, USA. csokaA@dom.pitt.edu
+
+Erratum in
+    J Sex Med. 2008 Dec;5(12):2977.. Csoka, A [corrected to Csoka, AB].
+
+INTRODUCTION: Sexual dysfunctions such as low libido, anorgasmia, genital 
+anesthesia, and erectile dysfunction are very common in patients taking 
+selective serotonin reuptake inhibitors (SSRIs). It has been assumed that these 
+side effects always resolve after discontinuing treatment, but recently, four 
+cases were presented in which sexual function did not return to baseline. Here, 
+we describe three more cases. Case #1: A 29-year-old with apparently permanent 
+erectile dysfunction after taking fluoxetine 20 mg once daily for a 4-month 
+period in 1996. Case #2: A 44-year-old male with persistent loss of libido, 
+genital anesthesia, ejaculatory anhedonia, and erectile dysfunction after taking 
+20-mg once daily citalopram for 18 months. Case #3: A 28-year-old male with 
+persistent loss of libido, genital anesthesia, and ejaculatory anhedonia since 
+taking several different SSRIs over a 2-year period from 2003-2005.
+RESULTS: No psychological issues related to sexuality were found in any of the 
+three cases, and all common causes of sexual dysfunction such as decreased 
+testosterone, increased prolactin or diabetes were ruled out. Erectile capacity 
+is temporarily restored for Case #1 with injectable alprostadil, and for Case #2 
+with oral sildenafil, but their other symptoms remain. Case #3 has had some 
+reversal of symptoms with extended-release methylphenidate, although it is not 
+yet known if these prosexual effects will persist when the drug is discontinued.
+CONCLUSION: SSRIs can cause long-term effects on all aspects of the sexual 
+response cycle that may persist after they are discontinued. Mechanistic 
+hypotheses including persistent endocrine and epigenetic gene expression 
+alterations were briefly discussed.
+
+DOI: 10.1111/j.1743-6109.2007.00630.x
+PMID: 18173768 [Indexed for MEDLINE]
+
+
+35. J Sex Marital Ther. 2006 Jul-Sep;32(4):327-30. doi: 10.1080/00926230600666410.
+
+Genital anaesthesia persisting six years after sertraline discontinuation.
+
+Bolton JM(1), Sareen J, Reiss JP.
+
+Author information:
+(1)Department of Psychiatry, University of Manitoba, Winnipeg, Manitoba, Canada.
+
+Sexual side-effects, in general, are common with selective serotonin-reuptake 
+inhibitors (SSRIs). Genital anaesthesia is a rare side-effect previously 
+described with sertraline and fluoxetine use. With SSRI discontinuation, the 
+sexual side-effects are expected to resolve. We report a case of a 26-year-old 
+male who experienced genital anaesthesia during sertraline treatment and 
+continued to be symptomatic despite medication discontinuation 6 years 
+previously. To date, there have been no published reports of SSRI-induced sexual 
+side-effects persisting beyond SSRI discontinuation. This case highlights the 
+complex interplay of psychopharmacologic and psychodynamic factors that can 
+occur in patients with sexual dysfunction.
+
+DOI: 10.1080/00926230600666410
+PMID: 16709553 [Indexed for MEDLINE]
+
+
+36. Psychother Psychosom. 2006;75(3):187-8. doi: 10.1159/000091777.
+
+Persistent sexual side effects after SSRI discontinuation.
+
+Csoka AB, Shipko S.
+
+DOI: 10.1159/000091777
+PMID: 16636635 [Indexed for MEDLINE]
