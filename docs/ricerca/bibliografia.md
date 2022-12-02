@@ -6,7 +6,27 @@ Post-SSRI Sexual Dysfunction: A Male Retrospective Cohort Study. Medicines
 [[PubMed]](https://pubmed.ncbi.nlm.nih.gov/36135826) -
 [[PMC]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9503765)
 
-2. Achour V, Masson M, Lancon C, Boyer L, Fond G. Screening and treatment of
+1. Reisman, Y., Jannini, T. B., & Jannini, E. A. (2022).
+Post-Selective Serotonin Reuptake Inhibitor Sexual Dysfunctions (PSSD):
+Clinical Experience with a Multimodal Approach. Journal of Men's Health, 18(8), 165.
+[[CrossRef]](https://doi.org/10.31083/j.jomh1808165)
+[[PDF researchgate.net]](https://www.researchgate.net/profile/Tommaso-B-Jannini-2/publication/362504022_Post-Selective_Serotonin_Reuptake_Inhibitor_Sexual_Dysfunctions_PSSD_Clinical_Experience_with_a_Multimodal_Approach/links/62efb9c00b37cc34477a0bb3/Post-Selective-Serotonin-Reuptake-Inhibitor-Sexual-Dysfunctions-PSSD-Clinical-Experience-with-a-Multimodal-Approach.pdf)
+
+1. Reisman, Y., Pfaus, J. G., & Lowenstein, L. (2022). Post-SSRI Sexual Dysfunction (PSSD).
+In Textbook of Rare Sexual Medicine Conditions (pp. 51-63). Springer, Cham.
+[[SpringerLink]](https://link.springer.com/chapter/10.1007/978-3-030-98263-8_5)
+
+1. Schifano, N., Capogrosso, P., Fallara, G., Pozzi, E., Belladelli, F., Candela, L., ... 
+& Salonia, A. (2022). MP21-09 DRUG-RELATED SEXUAL DYSFUNCTION ISSUES AMONG PATIENTS 
+UNDER TREATMENT OR PREVIOUSLY EXPOSED TO SELECTIVE SEROTONIN REUPTAKE INHIBITORS 
+(SSRIS)—A MANAGEMENT CHALLENGE?. The Journal of Urology, 207(Supplement 5), e330.
+[[CrossRef]](https://doi.org/10.1097/JU.0000000000002554.09)
+
+1. Hutters, C. L., & Giraldi, A. (2022). Sexual side effects from treatment with SSRI.
+Ugeskrift for Laeger, 184(14).
+[[PubMed]](https://pubmed.ncbi.nlm.nih.gov/35410653/)
+
+1. Achour V, Masson M, Lancon C, Boyer L, Fond G. Screening and treatment of
 Post-Selective Serotonin Reuptake Inhibitors sexual dysfunctions. Encephale. 2022
 Dec;48(6):599-600. doi: 10.1016/j.encep.2022.07.001. Epub 2022 Aug 12. No
 abstract available.
