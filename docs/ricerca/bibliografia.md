@@ -3,7 +3,7 @@
 1. De Luca R, Bonanno M, Manuli A, Calabrò RS. Cutting the First Turf to Heal
 Post-SSRI Sexual Dysfunction: A Male Retrospective Cohort Study. Medicines
 (Basel). 2022 Sep 1;9(9). pii: 45. doi: 10.3390/medicines9090045.
-[[PubMed]](https://pubmed.ncbi.nlm.nih.gov/36135826) -
+[[PubMed]](https://pubmed.ncbi.nlm.nih.gov/36135826)
 [[PMC]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9503765)
 
 1. Reisman, Y., Jannini, T. B., & Jannini, E. A. (2022).
@@ -43,7 +43,7 @@ Jannini EA, Janssen PKC, Khera M, Kumar MT, Le Noury J, Lew-Starowicz M, Linden
 DEJ, et al. Diagnostic criteria for enduring sexual dysfunction after treatment
 with antidepressants, finasteride and isotretinoin. Int J Risk Saf Med.
 2022;33(1):65-76. doi: 10.3233/JRS-210023.
-[[PubMed]](https://pubmed.ncbi.nlm.nih.gov/34719438) -
+[[PubMed]](https://pubmed.ncbi.nlm.nih.gov/34719438)
 [[PMC]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8925105)
 
 1. Peleg LC, Rabinovitch D, Lavie Y, Rabbie DM, Horowitz I, Fruchter E, Gruenwald I.
@@ -81,7 +81,7 @@ J Urol. 2020;203:e1179.
 1. Healy D, LaPalme J, Levin M. Post-SSRI Sexual Dysfunction: A Bioelectric
 Mechanism? Bioelectricity. 2020 Mar 1;2(1):7-13. doi: 10.1089/bioe.2019.0010.
 Epub 2020 Mar 18.
-[[PubMed]](https://pubmed.ncbi.nlm.nih.gov/34471832) -
+[[PubMed]](https://pubmed.ncbi.nlm.nih.gov/34471832)
 [[PMC]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8370302)
 
 1. Reisman Y. Post-SSRI sexual dysfunction. BMJ. 2020 Feb 27;368:m754. doi:
@@ -90,7 +90,7 @@ Epub 2020 Mar 18.
 
 1. Healy D. Antidepressants and sexual dysfunction: a history. J R Soc Med. 2020
 Apr;113(4):133-135. doi: 10.1177/0141076819899299. Epub 2020 Jan 23.
-[[PubMed]](https://pubmed.ncbi.nlm.nih.gov/31972096) -
+[[PubMed]](https://pubmed.ncbi.nlm.nih.gov/31972096)
 [[PMC]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7160790)
 
 1. Patacchini A, Cosci F. A Paradigmatic Case of Postselective Serotonin Reuptake
@@ -112,12 +112,12 @@ safety-an essay by David Healy and Dee Mangin. BMJ. 2019 Oct 2;367:l5777. doi:
 
 1. Healy D. Post-SSRI sexual dysfunction & other enduring sexual dysfunctions.
 Epidemiol Psychiatr Sci. 2019 Sep 23;29:e55. doi: 10.1017/S2045796019000519.
-[[PubMed]](https://pubmed.ncbi.nlm.nih.gov/31543091) -
+[[PubMed]](https://pubmed.ncbi.nlm.nih.gov/31543091)
 [[PMC]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8061302)
 
 1. Moncrieff J. Persistent adverse effects of antidepressants. Epidemiol Psychiatr
 Sci. 2019 Sep 23;29:e56. doi: 10.1017/S2045796019000520.
-[[PubMed]](https://pubmed.ncbi.nlm.nih.gov/31543093) -
+[[PubMed]](https://pubmed.ncbi.nlm.nih.gov/31543093)
 [[PMC]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8061256)
 
 1. Healy D, Le Noury J, Mangin D. Post-SSRI sexual dysfunction: Patient experiences 
@@ -134,18 +134,18 @@ Case Study. J Sex Marital Ther. 2019;45(6):562-565. doi:
 1. Kanherkar RR, Getachew B, Ben-Sheetrit J, Varma S, Heinbockel T, Tizabi Y, Csoka 
 AB. The Effect of Citalopram on Genome-Wide DNA Methylation of Human Cells. Int J
 Genomics. 2018 Jul 25;2018:8929057. doi: 10.1155/2018/8929057. eCollection 2018. 
-[[PubMed]](https://pubmed.ncbi.nlm.nih.gov/30148158) -
+[[PubMed]](https://pubmed.ncbi.nlm.nih.gov/30148158)
 [[PMC]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6083487)
 
 1. Healy D. Citizen petition: Sexual side effects of SSRIs and SNRIs. Int J Risk Saf
 Med. 2018;29(3-4):135-147. doi: 10.3233/JRS-180745.
-[[PubMed]](https://pubmed.ncbi.nlm.nih.gov/29733031) -
+[[PubMed]](https://pubmed.ncbi.nlm.nih.gov/29733031)
 [[PMC]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6004927)
 
 1. Healy D, Le Noury J, Mangin D. Enduring sexual dysfunction after treatment with
 antidepressants, 5α-reductase inhibitors and isotretinoin: 300 cases. Int J Risk 
 Saf Med. 2018;29(3-4):125-134. doi: 10.3233/JRS-180744.
-[[PubMed]](https://pubmed.ncbi.nlm.nih.gov/29733030) -
+[[PubMed]](https://pubmed.ncbi.nlm.nih.gov/29733030)
 [[PMC]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6004900)
 
 1. Giatti S, Diviccaro S, Panzica G, Melcangi RC. Post-finasteride syndrome and
