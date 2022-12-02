@@ -28,8 +28,7 @@ Ugeskrift for Laeger, 184(14).
 
 1. Achour V, Masson M, Lancon C, Boyer L, Fond G. Screening and treatment of
 Post-Selective Serotonin Reuptake Inhibitors sexual dysfunctions. Encephale. 2022
-Dec;48(6):599-600. doi: 10.1016/j.encep.2022.07.001. Epub 2022 Aug 12. No
-abstract available.
+Dec;48(6):599-600. doi: 10.1016/j.encep.2022.07.001. Epub 2022 Aug 12.
 [[PubMed]](https://pubmed.ncbi.nlm.nih.gov/35970644)
 
 1. Chinchilla Alfaro K, van Hunsel F, Ekhart C. Persistent sexual dysfunction after 
@@ -86,19 +85,18 @@ Epub 2020 Mar 18.
 [[PMC]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8370302)
 
 1. Reisman Y. Post-SSRI sexual dysfunction. BMJ. 2020 Feb 27;368:m754. doi:
-10.1136/bmj.m754. No abstract available.
+10.1136/bmj.m754.
 [[PubMed]](https://pubmed.ncbi.nlm.nih.gov/32107204)
 
 1. Healy D. Antidepressants and sexual dysfunction: a history. J R Soc Med. 2020
-Apr;113(4):133-135. doi: 10.1177/0141076819899299. Epub 2020 Jan 23. No abstract 
-available.
+Apr;113(4):133-135. doi: 10.1177/0141076819899299. Epub 2020 Jan 23.
 [[PubMed]](https://pubmed.ncbi.nlm.nih.gov/31972096) -
 [[PMC]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7160790)
 
 1. Patacchini A, Cosci F. A Paradigmatic Case of Postselective Serotonin Reuptake
 Inhibitors Sexual Dysfunction or Withdrawal After Discontinuation of Selective
 Serotonin Reuptake Inhibitors? J Clin Psychopharmacol. 2020 Jan/Feb;40(1):93-95. 
-doi: 10.1097/JCP.0000000000001154. No abstract available.
+doi: 10.1097/JCP.0000000000001154.
 [[PubMed]](https://pubmed.ncbi.nlm.nih.gov/31834096)
 
 1. Reisman, Y. Are There Any Sex/Gender Differences in Post-Selective Serotonin
@@ -109,7 +107,7 @@ Curr Sex Health Rep 11, 237–242 (2019).
 
 1. Healy D, Mangin D. Clinical judgments, not algorithms, are key to patient
 safety-an essay by David Healy and Dee Mangin. BMJ. 2019 Oct 2;367:l5777. doi:
-10.1136/bmj.l5777. No abstract available.
+10.1136/bmj.l5777.
 [[PubMed]](https://pubmed.ncbi.nlm.nih.gov/31578186)
 
 1. Healy D. Post-SSRI sexual dysfunction & other enduring sexual dysfunctions.
@@ -118,7 +116,7 @@ Epidemiol Psychiatr Sci. 2019 Sep 23;29:e55. doi: 10.1017/S2045796019000519.
 [[PMC]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8061302)
 
 1. Moncrieff J. Persistent adverse effects of antidepressants. Epidemiol Psychiatr
-Sci. 2019 Sep 23;29:e56. doi: 10.1017/S2045796019000520. No abstract available.
+Sci. 2019 Sep 23;29:e56. doi: 10.1017/S2045796019000520.
 [[PubMed]](https://pubmed.ncbi.nlm.nih.gov/31543093) -
 [[PMC]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8061256)
 
@@ -140,7 +138,7 @@ Genomics. 2018 Jul 25;2018:8929057. doi: 10.1155/2018/8929057. eCollection 2018.
 [[PMC]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6083487)
 
 1. Healy D. Citizen petition: Sexual side effects of SSRIs and SNRIs. Int J Risk Saf
-Med. 2018;29(3-4):135-147. doi: 10.3233/JRS-180745. No abstract available.
+Med. 2018;29(3-4):135-147. doi: 10.3233/JRS-180745.
 [[PubMed]](https://pubmed.ncbi.nlm.nih.gov/29733031) -
 [[PMC]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6004927)
 
@@ -214,8 +212,7 @@ An Informed Consent Accountability Gap. J Contemp Psychother 39, 135–143 (2009
 
 1. Farnsworth KD, Dinsmore WW. Persistent sexual dysfunction in genitourinary
 medicine clinic attendees induced by selective serotonin reuptake inhibitors. Int
-J STD AIDS. 2009 Jan;20(1):68-9. doi: 10.1258/ijsa.2008.008402. No abstract
-available.
+J STD AIDS. 2009 Jan;20(1):68-9. doi: 10.1258/ijsa.2008.008402.
 [[PubMed]](https://pubmed.ncbi.nlm.nih.gov/19103903)
 
 1. Bahrick, Audrey. (2008). Persistence of Sexual Dysfunction Side Effects after
@@ -244,7 +241,7 @@ sertraline discontinuation. J Sex Marital Ther. 2006 Jul-Sep;32(4):327-30.
 [[PubMed]](https://pubmed.ncbi.nlm.nih.gov/16709553)
 
 1. Csoka AB, Shipko S. Persistent sexual side effects after SSRI discontinuation.
-Psychother Psychosom. 2006;75(3):187-8. No abstract available.
+Psychother Psychosom. 2006;75(3):187-8.
 [[PubMed]](https://pubmed.ncbi.nlm.nih.gov/16636635)
 
 1. Bahrick, Audrey & Audrey,. (2006). Post SSRI Sexual Dysfunction. ASAP Tablet. 7. 2-3, 10.
