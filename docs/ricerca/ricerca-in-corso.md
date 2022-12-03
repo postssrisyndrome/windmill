@@ -2,6 +2,10 @@
 
 ## Eziopatogenesi della disfunzione sessuale post-SSRI (PSSD)
 
+L'Università di Milano è attivamente coinvolta nella ricerca dei meccanismi biologici alla base della PSSD, e riporta quanto segue:
+
+---
+
 Al fine di fornire un aggiornamento ai pazienti affetti da PSSD, desideriamo ricapitolare ciò che abbiamo pubblicato di recente e ciò che stiamo esplorando.
 
 Le nostre precedenti osservazioni (Giatti S. et al., J.Med.Chem. 2021), ottenute in un modello sperimentale post-finasteride, hanno dimostrato che la finasteride è in grado di interagire con proteine off-target (cioè proteine diverse dal suo bersaglio naturale). In particolare, questo farmaco è in grado di bloccare l'enzima limitante nella formazione dell'ormone dello stress, l'epinefrina (la feniletanolamina N-metiltransferasi, PNMT). Su questa base, abbiamo esplorato se la paroxetina fosse in grado di interagire anche con proteine non bersaglio. I dati ottenuti hanno dimostrato che anche la paroxetina è in grado di interagire con la PNMT (Giatti S. et al., J. Mol. Structure, 2022). Questa scoperta conferma ulteriormente la nostra ipotesi (Giatti S. et al., Endocrine, 2018) che la PFS e la PSSD possano condividere percorsi comuni. Riteniamo che questo sia estremamente importante perché può significare che la ricerca sulla PFS può essere utile per la PSSD e viceversa.
@@ -19,7 +23,8 @@ Stiamo continuando a studiare la PSSD nel nostro modello sperimentale, esplorand
 
 ### Crowdfunding
 
-A inizio dicembre 2020, un paziente PSSD ha aperto una [**raccolta fondi**](https://www.gofundme.com/f/27l8qmes5c) per contribuire a velocizzare e approfondire questo progetto, che viene adattato a seconda del totale dei fondi disponibili. Lo studio è diviso in due fasi: la stima dei costi della prima fase è intorno ai 18-20000 €, mentre quello della seconda dipende dall’esito della prima. Il crowdfunding serve ad approfondire la ricerca in termini di biomarkers valutati, e anche a far salire di priorità questa ricerca sulla PSSD rispetto ad altre. [Contattateci](../contatti/) per ulteriori dettagli sul progetto di ricerca e sul [crowdfunding](../news/melcangi-aperto-un-fundraising-per-contribuire-alla-ricerca-sulla-pssd.md)
+A inizio dicembre 2020, un paziente PSSD ha aperto una [**raccolta fondi**](https://www.gofundme.com/f/27l8qmes5c) per contribuire a velocizzare e approfondire questo progetto di ricerca, che viene adattato a seconda del totale dei fondi disponibili.
+Il crowdfunding serve ad approfondire la ricerca in termini di biomarkers valutati, e a velocizzarla. [Contattateci](../contatti/) per ulteriori dettagli sul progetto di ricerca e sul [crowdfunding](../news/melcangi-aperto-un-fundraising-per-contribuire-alla-ricerca-sulla-pssd.md).
 
 ## Epidemiologia e consapevolezza della PSSD
 
