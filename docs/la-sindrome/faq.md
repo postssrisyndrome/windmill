@@ -113,7 +113,7 @@ Alcuni di noi collaborano a vario titolo con centri di ricerca sulla PSSD.
 [1]	Healy, D., et al. "Diagnostic criteria for enduring sexual dysfunction after treatment with antidepressants, finasteride and isotretinoin." *The International Journal of Risk & Safety in Medicine* 33.1 (2022): 65-76.
 [2] Bala A, Nguyen HMT, Hellstrom WJG. "Post-SSRI Sexual Dysfunction: A Literature Review."
 *Sex Med Rev*. 2018 Jan;6(1):29-34. doi: 10.1016/j.sxmr.2017.07.002. Epub 2017 Aug 1. Review.
-[[PubMed]](https://pubmed.ncbi.nlm.nih.gov/28778697) ![Bala 2006](../img/bala-screen.jpg)
+[[PubMed]](https://pubmed.ncbi.nlm.nih.gov/28778697)
 
 ## Links
 
