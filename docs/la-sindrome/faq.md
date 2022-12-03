@@ -6,7 +6,7 @@ La disfunzione sessuale post-SSRI (PSSD, dall'inglese post-SSRI sexual dysfuncti
 che persistono per un tempo indefinito *dopo aver interrotto* farmaci serotoninergici, come ad esempio gli inibitori selettivi della ricaptazione della serotonina (SSRI),
 largamente utilizzati nei disturbi depressivi e ansiosi.
 
-È ben noto che l'assunzione di farmaci serotoninergici possa causare difunzioni sessuali in un'alta percentuale di persone,
+È ben noto che l'assunzione di farmaci serotoninergici possa causare difunzioni sessuali in un'alta percentuale di persone *durante* l'assunzione,
 ma è meno noto che queste disfunzioni possano rimanere anche dopo la sospensione del farmaco.
 
 Sindromi simili si hanno anche con altri farmaci quali la finasteride (sindrome post-finasteride, PFS) e l'isotretinoina (sindrome post-accutane, PAS).
@@ -60,23 +60,24 @@ in particolare è stato rilevato che l'anestesia genitale sembra essere un sinto
 * in studi preclinici, dopo la sospensione di paroxetina è stato osservato un impatto negativo sui livelli di neurosteroidi
 * disfunzioni sessuali persistenti sono state osservate in volontari sani che hanno assunto farmaci SRI
 
-## La colpa è dell'uso scorretto dei farmaci? Se seguo le indicazioni del medico sono al sicuro?
+## La causa è dell'uso scorretto dei farmaci? Se seguo le indicazioni del medico sono al sicuro?
 
-Purtroppo no. Può capitare anche con un uso corretto sotto controllo medico.
+Purtroppo no. La PSSD può capitare anche con un uso corretto, sotto controllo medico.
 
-Una credenza molto diffusa è che i problemi degli antidepressivi derivino solo da un uso scorretto, ad esempio troppo prolungato, dei farmaci, o ad una loro brusca interruzione.
-Frasi di questo tipo sono comuni:
+Una credenza molto diffusa è che i problemi degli antidepressivi derivino solo da un uso scorretto, ad esempio troppo prolungato, o ad una loro brusca interruzione.
+Frasi erronee di questo tipo sono comuni:
 
-* solo un uso prolungato può essere pericoloso
-* succede solo a chi interrompe l'assunzione di colpo
-* basta assumere il farmaco sotto controllo medico
+* "solo l'uso prolungato può essere pericoloso"
+* "succede solo a chi interrompe l'assunzione di colpo"
+* "se si assume il farmaco sotto controllo medico non si corrono rischi"
 
 Anche se è vero che un uso prolungato, una dose troppo alta, o una brusca interruzione di antidepressivo possono aumentare il rischio di certe problematiche
 (come ad esempio la sindrome da sospensione),
-e quindi è meglio utilizzare farmaci alla dose più bassa e per il minor tempo possibile, sospendendoli gradualmente,
-tutto ciò non garantisce di non incorrere nella PSSD.
+e quindi sia meglio utilizzare farmaci alla dose più bassa per il minor tempo possibile per poi sospenderli gradualmente,
+tutto ciò non elimina la possibilità di incorrere nella PSSD.
 
-Si sa che la PSSD può verificarsi anche dopo l'assunzione di poche dosi o addirittura una sola,[2] e che la sospensione graduale dell'antidepressivo (tapering) non previene il problema.
+Si sa che la PSSD in alcune persone può verificarsi anche dopo l'assunzione di poche dosi o addirittura una sola,[2]
+e che la sospensione graduale dell'antidepressivo (tapering) non previene il problema.
 
 ## Quanto è frequente la PSSD?
 
@@ -91,10 +92,10 @@ Per approfondire bene questo problema, per nulla banale, si consiglia l’[artic
 
 Si possono avere diversi scenari:
 
-* sintomi presenti durante l’assunzione del farmaco, ma che scompaiono completamente dopo la sospensione del farmaco → nessuna PSSD
-* sintomi non presenti durante l’assunzione del farmaco, ma che compaiono per la prima volta dopo la sospensione del farmaco → PSSD
-* sintomi presenti durante l’assunzione del farmaco, che si attenuano dopo la sospensione del farmaco → PSSD
-* sintomi presenti durante l’assunzione del farmaco e che si aggravano dopo la sospensione del farmaco → PSSD
+1. disfunzioni sessuali presenti durante l’assunzione del farmaco (molto comune), che scompaiono completamente dopo la sospensione del farmaco. In questo caso non si ha PSSD.
+2. disfunzioni sessuali presenti durante l’assunzione del farmaco e che si riducono dopo la sospensione del farmaco senza risolversi completamente → PSSD
+3. disfunzioni sessuali presenti durante l’assunzione del farmaco e che si aggravano dopo la sospensione del farmaco → PSSD
+4. disfunzioni sessuali non presenti durante l’assunzione del farmaco, ma che compaiono per la prima volta dopo la sospensione del farmaco e permangono → PSSD
 
 ## Cosa posso fare in concreto per sostenere la ricerca?
 
