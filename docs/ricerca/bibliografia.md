@@ -211,6 +211,12 @@ discontinuation of selective serotonin reuptake inhibitors?].
 *Tijdschr Psychiatr*. 2014;56(5):336-40. Dutch.
 [[PubMed]](https://pubmed.ncbi.nlm.nih.gov/24838589)
 
+1. Stinson, Rebecca Diane. "The impact of persistent sexual side effects of selective
+serotonin reuptake inhibitors after discontinuing treatment: a qualitative study."
+PhD (Doctor of Philosophy) thesis, University of Iowa, 2013.
+http://ir.uiowa.edu/etd/5061.
+[[PDF]](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=b324fa58f0a309c87b8032be133588c5a79e7ab7)
+
 1. Bahrick, A.S., Harris, M.M. Sexual Side Effects of Antidepressant Medications:
 An Informed Consent Accountability Gap.
 *J Contemp Psychother* 39, 135–143 (2009).
