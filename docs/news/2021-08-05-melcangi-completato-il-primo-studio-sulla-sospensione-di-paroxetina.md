@@ -4,7 +4,12 @@ id: first-study-completed-university-milan
 title: Completato il primo studio sulla sospensione di paroxetina da parte dell’Università
   di Milano
 author: Admin Post SSRI Syndrome
+date: 2021-08-05
 ---
+
+# Completato il primo studio sulla sospensione di paroxetina da parte dell’Università di Milano
+
+Data: 5 Agosto 2021
 
 È stato finalmente completato il primo studio volto a porre le basi per la comprensione dell’eziologia della Disfunzione Sessuale Post-SSRI (PSSD), da parte del [laboratorio di Neuroendocrinologia dell’Università di Milano](http://eng.disfeb.unimi.it/ecm/home/research/research-labs/laboratory-of-neuroendocrinology "Pagina del laboratorio."). Lo studio, pubblicato su Psychoneuroendocrinology con il titolo [“Effects of paroxetine treatment and its withdrawal on neurosteroidogenesis”](https://authors.elsevier.com/c/1dTfu15hUdTGgL), riporta una profonda alterazione della neurosteroidogenesi alla sospensione di paroxetina, ed è stato parzialmente finanziato dai pazienti PSSD tramite una [raccolta fondi](https://postssrisyndrome.org/completato-il-primo-studio-sulla-sospensione-di-paroxetina-da-parte-delluniversita-di-milano-nel-contesto-della-ricerca-sulleziologia-della-disfunzione-sessuale-post-ssri-pssd/m/f/27l8qmes5c "Vai alla raccolta fondi su GoFundMe") che ha avuto un successo inatteso (e che è ancora attiva perché la ricerca sta proseguendo).
 

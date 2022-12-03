@@ -6,8 +6,12 @@ author: Admin Post SSRI Syndrome
 author_title: ''
 author_url: ''
 author_image_url: ''
-
+date: 2021-12-12
 ---
+
+# Il primo studio del prof. Melcangi è in corso
+
+Data: 12 Dicembre 2021
 
 Ottime notizie. L’Università degli Studi di Milano ha avviato uno studio per determinare le alterazioni biomolecolari che persistono _dopo la sospensione_ di farmaci SSRI, alla ricerca di biomarker della disfunzione sessuale post-SSRI e future strategie di intervento.
 
@@ -22,5 +26,3 @@ Il Prof Roberto Cosimo Melcangi, del [Dipartimento di Scienze Farmacologiche e B
 ## Rilevanza dello studio
 
 A nostra conoscenza, si tratta del primo studio al mondo che ha lo scopo esplicito di identificare meccanismi molecolari delle disfunzioni sessuali post-SSRI. Ad oggi sono piuttosto scarsi persino gli studi sui meccanismi molecolari della disfunzione sessuale indotta da SSRI _durante_ il trattamento, quindi una ricerca del genere è sicuramente molto innovativa e importante per fare luce sul problema della PSSD e stimolare altri circoli virtuosi di consapevolezza e ricerca nel mondo.
-
-![](../img/gout-2870583_1920-lionfive-pixabay.jpg)

@@ -6,8 +6,13 @@ author: Admin Post SSRI Syndrome
 author_title: ''
 author_url: ''
 author_image_url: ''
-
+date: 2021-01-13
 ---
+
+# Campagna di Consapevolezza sulla Disfunzione Sessuale Post-SSRI (PSSD)
+
+Data: 13 Gennaio 2021
+
 🇨🇦 PSSD Canada 🇮🇹 PSSD Italia 🇩🇪 PSSD Hilfe Deutschland e. V. 🇬🇧 UK PSSD Association
 
 Stiamo lavorando con la Federazione Internazionale PSSD / PFS / PAS. La “Sindrome Post Finasteride” (PFS) e la “Sindrome Post Accutane” (PAS) sono sindromi post-farmaco simili alla **disfunzione sessuale post-SSRI** (PSSD), in cui effetti avversi (soprattutto sessuali) continuano a manifestarsi mesi o anni dopo l’interruzione del trattamento. Tutte e tre le sindromi mancano di consapevolezza ed è questo che vogliamo cambiare. Probabilmente avete visto i post che abbiamo fatto per chiedere alla gente di raccontare le loro storie **prima** della Giornata delle Malattie Rare **del 28 febbraio**. L’obiettivo è quello di far pubblicare online 100 storie PSSD, PFS e PAS.

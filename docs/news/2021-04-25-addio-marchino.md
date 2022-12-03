@@ -1,13 +1,16 @@
 ---
 tags: []
 id: goodbye-marchino
-title: "Addio Marchino…\r\n"
+title: "Addio Marchino…"
 author: Admin Post SSRI Syndrome
 author_title: ''
 author_url: ''
 author_image_url: ''
-
+date: 2021-04-25
 ---
+
+# Addio Marchino...
+
 Poco più di una settimana è trascorsa dal tuo ultimo respiro e pochissimi giorni in più da quei tuoi propositi di costituire un’associazione per le persone danneggiate dai farmaci cosiddetti serotoninergici. Avevi impiegato del tempo, con ostinazione e pazienza, per guadagnarti un poco di fiducia da parte di alcune persone importanti a te vicine ed essere creduto; non i medici a cui ti sei rivolto e dai quali hai ottenuto, purtroppo in modo prevedibile, quel tipo di risposta, sbrigativa e inaccettabile, che tutti noi ancora quasi sempre riceviamo.
 
 Questo nonostante la tua sindrome post-SSRI non fosse limitata a gravi disfunzioni sessuali, e nemmeno al terribile ottundimento emotivo, all’anedonia e ai problemi cognitivi che ti aveva portato. Il farmaco antidepressivo che ti era stato prescritto per un momento di sconforto, dopo la sua sospensione ha avuto un impatto devastante sulla tua salute e forma fisica.

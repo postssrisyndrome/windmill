@@ -24,7 +24,7 @@ Stiamo continuando a studiare la PSSD nel nostro modello sperimentale, esplorand
 ### Crowdfunding
 
 A inizio dicembre 2020, un paziente PSSD ha aperto una [**raccolta fondi**](https://www.gofundme.com/f/27l8qmes5c) per contribuire a velocizzare e approfondire questo progetto di ricerca, che viene adattato a seconda del totale dei fondi disponibili.
-Il crowdfunding serve ad approfondire la ricerca in termini di biomarkers valutati, e a velocizzarla. [Contattateci](../contatti/) per ulteriori dettagli sul progetto di ricerca e sul [crowdfunding](../news/melcangi-aperto-un-fundraising-per-contribuire-alla-ricerca-sulla-pssd.md).
+Il crowdfunding serve ad approfondire la ricerca in termini di biomarkers valutati, e a velocizzarla. [Contattateci](../contatti/) per ulteriori dettagli sul progetto di ricerca e sul [crowdfunding](../news/2020-12-15-melcangi-aperto-un-fundraising-per-contribuire-alla-ricerca-sulla-pssd.md).
 
 ## Epidemiologia e consapevolezza della PSSD
 

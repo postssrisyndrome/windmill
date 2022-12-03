@@ -6,13 +6,18 @@ author: Admin Post SSRI Syndrome
 author_title: ''
 author_url: ''
 author_image_url: ''
-
+date: 2020-12-15
 ---
+
+# Aperto un fundraising per contribuire alla ricerca sulla PSSD di Melcangi
+
+Data: 15 Dicembre 2020
+
 Il professor Melcangi, dell’[Università degli Studi di Milano](http://eng.disfeb.unimi.it/ecm/home/research/research-labs/laboratory-of-neuroendocrinology), ha avviato il [primo studio sulla disfunzione sessuale post-SSRI/SNRI (PSSD)](https://postssrisyndrome.org/melcangi-pssd-research-project-started/).
 
 Dato che la ricerca è costosa e i fondi per questo progetto non sono molto elevati, su suggerimento dello stesso Melcangi, alcuni pazienti PSSD hanno cercato di organizzare una raccolta fondi, e finalmente, a inizio dicembre, uno di loro ha creato un [GoFundMe a **questo indirizzo**](https://www.gofundme.com/f/27l8qmes5c).
 
-**A cosa serve donare?**
+## A cosa serve donare?
 
 ![](../img/istock_000008506606large.png)Questo crowdfunding è pensato per aiutare a coprire una parte dei costi del progetto, che è diviso in due fasi: la stima per la prima fase è di circa 18-20 k, mentre quello della seconda dipende dall’esito della prima. Naturalmente più si riesce a raccogliere e meglio è.
 
