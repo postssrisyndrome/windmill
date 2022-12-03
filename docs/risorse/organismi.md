@@ -2,17 +2,17 @@
 slug: agencies
 title: Organismi
 sidebar_label: Organismi
-
 ---
-**Organismi**
 
-#### **AIFA Agenzia Italiana del Farmaco**
+# Organismi
+
+## AIFA Agenzia Italiana del Farmaco
 
 L’ A.I.F.A è l’autorità nazionale competente per l’attività regolatoria dei farmaci in Italia.
 
 Attraverso la **Rete Nazionale della Farmacovigilanza** è possibile segnalare ad AIFA gli effetti indesiderati dei farmaci, tra cui finasteride, tramite il il sito web [https://www.vigifarmaco.it/.](https://www.vigifarmaco.it/. "https://www.vigifarmaco.it/.")
 
-#### **European Medicines Agency**
+## European Medicines Agency
 
 L’ E.M.A. è l’agenzia Europea per la valutazione dei [medicinali](https://it.wikipedia.org/wiki/Farmaco "Farmaco").
 
