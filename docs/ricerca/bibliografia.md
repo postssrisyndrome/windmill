@@ -49,6 +49,7 @@ with antidepressants, finasteride and isotretinoin.
 *Int J Risk Saf Med*. 2022;33(1):65-76. doi: 10.3233/JRS-210023.
 [[PubMed]](https://pubmed.ncbi.nlm.nih.gov/34719438)
 [[PMC]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8925105)
+![Diagnostic criteria paper screenshot](../imag/../img/diagnostic-criteria.jpg)
 
 1. Peleg LC, Rabinovitch D, Lavie Y, Rabbie DM, Horowitz I, Fruchter E, Gruenwald I.
 Post-SSRI Sexual Dysfunction (PSSD): Biological Plausibility, Symptoms,
@@ -164,7 +165,7 @@ Preclinical to Clinical. Is It Fact or Fiction?
 
 1. Bala A, Nguyen HMT, Hellstrom WJG. Post-SSRI Sexual Dysfunction: A Literature Review.
 *Sex Med Rev*. 2018 Jan;6(1):29-34. doi: 10.1016/j.sxmr.2017.07.002. Epub 2017 Aug 1. Review.
-[[PubMed]](https://pubmed.ncbi.nlm.nih.gov/28778697)
+[[PubMed]](https://pubmed.ncbi.nlm.nih.gov/28778697) ![Bala 2006](../img/bala-screen.jpg)
 
 1. Reisman Y. Sexual Consequences of Post-SSRI Syndrome.
 *Sex Med Rev*. 2017 Oct;5(4):429-433. doi: 10.1016/j.sxmr.2017.05.002. Epub 2017 Jun 20. Review.
