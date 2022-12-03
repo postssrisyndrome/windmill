@@ -9,6 +9,8 @@ largamente utilizzati nei disturbi depressivi e ansiosi.
 È ben noto che l'assunzione di farmaci serotoninergici possa causare difunzioni sessuali in un'alta percentuale di persone,
 ma è meno noto che queste disfunzioni possano rimanere anche dopo la sospensione del farmaco.
 
+Sindromi simili si hanno anche con altri farmaci quali la finasteride (sindrome post-finasteride, PFS) e l'isotretinoina (sindrome post-accutane, PAS).
+
 ## Quali sono i sintomi della PSSD?
 
 Uno dei sintomi considerati necessari per parlare di PSSD è una ridotta sensazione tattile e/o erogena a livello genitale (anestesia genitale).
@@ -58,12 +60,31 @@ in particolare è stato rilevato che l'anestesia genitale sembra essere un sinto
 * in studi preclinici, dopo la sospensione di paroxetina è stato osservato un impatto negativo sui livelli di neurosteroidi
 * disfunzioni sessuali persistenti sono state osservate in volontari sani che hanno assunto farmaci SRI
 
+## La colpa è dell'uso scorretto dei farmaci? Se seguo le indicazioni del medico sono al sicuro?
+
+Purtroppo no. Può capitare anche con un uso corretto sotto controllo medico.
+
+Una credenza molto diffusa è che i problemi degli antidepressivi derivino solo da un uso scorretto, ad esempio troppo prolungato, dei farmaci, o ad una loro brusca interruzione.
+Frasi di questo tipo sono comuni:
+
+* solo un uso prolungato può essere pericoloso
+* succede solo a chi interrompe l'assunzione di colpo
+* basta assumere il farmaco sotto controllo medico
+
+Anche se è vero che un uso prolungato, una dose troppo alta, o una brusca interruzione di antidepressivo possono aumentare il rischio di certe problematiche
+(come ad esempio la sindrome da sospensione),
+e quindi è meglio utilizzare farmaci alla dose più bassa e per il minor tempo possibile, sospendendoli gradualmente,
+tutto ciò non garantisce di non incorrere nella PSSD.
+
+Si sa che la PSSD può verificarsi anche dopo l'assunzione di poche dosi o addirittura una sola,[2] e che la sospensione graduale dell'antidepressivo (tapering) non previene il problema.
+
 ## Quanto è frequente la PSSD?
 
 Non è noto.
 
 Spesso si legge, anche da parte delle stesse persone sofferenti, che la PSSD sarebbe una sindrome rara o molto rara, che capita a pochi sfortunati.
 In realtà ad oggi non è possibile affermare che la PSSD sia rara o frequente (e in che misura), perché questo aspetto non è mai stato adeguatamente studiato.
+Sulla base dei dati disponibili, si ritiene che forme moderatamente lievi di PSSD possano essere piuttosto comuni.
 Per approfondire bene questo problema, per nulla banale, si consiglia l’[articolo dedicato](prevalenza.md).
 
 ## È possibile che i sintomi della PSSD si presentino solo dopo la sospensione?
@@ -74,10 +95,6 @@ Si possono avere diversi scenari:
 * sintomi non presenti durante l’assunzione del farmaco, ma che compaiono per la prima volta dopo la sospensione del farmaco → PSSD
 * sintomi presenti durante l’assunzione del farmaco, che si attenuano dopo la sospensione del farmaco → PSSD
 * sintomi presenti durante l’assunzione del farmaco e che si aggravano dopo la sospensione del farmaco → PSSD
-
-## Credo di avere la PSSD, a quali medici mi devo affidare?
-
-Visite mediche di vario tipo, come quella andrologica, possono essere consigliate, nonché assistenza psicologica e/o sessuologica.
 
 ## Cosa posso fare in concreto per sostenere la ricerca?
 
@@ -93,6 +110,11 @@ Alcuni di noi collaborano a vario titolo con centri di ricerca sulla PSSD.
 
 ## Riferimenti
 
-[1]	Healy, D., et al. "Diagnostic criteria for enduring sexual dysfunction after treatment with antidepressants, finasteride and isotretinoin." The International Journal of Risk & Safety in Medicine 33.1 (2022): 65-76.
-[2] Bala et al.
+[1]	Healy, D., et al. "Diagnostic criteria for enduring sexual dysfunction after treatment with antidepressants, finasteride and isotretinoin." *The International Journal of Risk & Safety in Medicine* 33.1 (2022): 65-76.
+[2] Bala A, Nguyen HMT, Hellstrom WJG. "Post-SSRI Sexual Dysfunction: A Literature Review."
+*Sex Med Rev*. 2018 Jan;6(1):29-34. doi: 10.1016/j.sxmr.2017.07.002. Epub 2017 Aug 1. Review.
+[[PubMed]](https://pubmed.ncbi.nlm.nih.gov/28778697) ![Bala 2006](../img/bala-screen.jpg)
 
+## Links
+
+* [FAQ su PSSD Network](https://www.pssdnetwork.org/faq)
