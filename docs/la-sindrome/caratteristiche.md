@@ -9,7 +9,7 @@ La sindrome è indipendente da qualsiasi problema di salute mentale preesistente
 
 ![](../img/113207765_s.jpg)
 
-## DELINEAZIONE ED EPIDEMIOLOGIA
+## Delineazione ed epidemiologia
 
 La PSSD è stata delineata in letteratura medica dal 2006 a partire da case reports, con diversi solleciti da parte degli autori ad indagare più approfonditamente i rischi e le cause della condizione, a tenere controllati gli eventuali cambiamenti della funzionalità sessuale dei pazienti prima, durante e dopo il trattamento e di offrire ai pazienti un Consenso informato prima della prescrizione di antidepressivi SSRI e SNRI.
 
@@ -19,7 +19,7 @@ Le indicazioni presenti nei foglietti illustrativi di SSRI e SNRI sino al 2019 f
 
 Nel giugno 2019 l’Agenzia Europea per i medicinali (EMA) ha concluso una discussione PRAC (“Pharmacovigilance Risk Assessment Committee”, “Comitato di valutazione dei rischi per la farmacovigilanza” in italiano) con la raccomandazione per tutte le case farmaceutiche di SSRI e SNRI di aggiornare i foglietti illustrativi con la dicitura che “In alcuni casi i sintomi di disfunzione sessuale sono persistiti in seguito all’interruzione del trattamento”.
 
-## SINTOMATOLOGIA
+## Sintomatologia
 
 La PSSD può presentarsi come una continuazione di effetti collaterali sessuali cominciati durante il trattamento, o anche insorgere, o peggiorare, al momento della sospensione.
 
@@ -40,7 +40,7 @@ I sintomi sessuali più comuni di PSSD sono:
 * disfunzioni cognitive;
 * disturbi sensoriali.
 
-## DIAGNOSI
+## Diagnosi
 
 Sebbene la capacità di diagnosticare gli effetti avversi dovrebbe far parte delle competenze di qualsiasi prescrittore, il fatto che queste condizioni possono persistere o emergere dopo la sospensione del farmaco responsabile aggiunge un ulteriore livello di complessità. Inoltre, queste condizioni sono poco conosciute e poco comprese dagli operatori sanitari.
 
@@ -55,7 +55,7 @@ Esso fornisce criteri diagnostici per:
 * sindrome post-finasteride (PFS)
 * disfunzione sessuale post-retinoide (PRSD)
 
-## EZIOLOGIA
+## Eziologia
 
 Diverse ipotesi sono state formulate, specialmente a partire dai vari meccanismi già osservati implicati negli effetti collaterali sessuali durante l’uso di antidepressivi.
 
