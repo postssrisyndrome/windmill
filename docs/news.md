@@ -1,5 +1,6 @@
 # Aggiornamenti sulla Disfunzione Sessuale Post-SSRI (PSSD)
 
+* [2022-07-15 | Identificato un meccanismo in comune tra paroxetina e finasteride](./news/2022-07-15-melcangi-identificato-target-condiviso-tra-paroxetina-e-finasteride.md)
 * [2021-12-28 | Pubblicati i criteri diagnostici](news/2021-12-28-pubblicati-i-criteri-diagnostici-per-la-pssd-e-altre-condizioni-persistenti.md)
 * [2021-08-31 | Melcangi: la ricerca sulla PSSD entra nella terza fase](news/2021-08-31-melcangi-la-ricerca-sulla-pssd-entra-nella-terza-fase.md)
 * [2021-08-05 | Melcangi: completato il primo studio sulla sospensione di paroxetina](news/2021-08-05-melcangi-completato-il-primo-studio-sulla-sospensione-di-paroxetina.md)
