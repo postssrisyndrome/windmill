@@ -17,6 +17,7 @@ Clinical Experience with a Multimodal Approach.
 
 1. Reisman, Y., Pfaus, J. G., & Lowenstein, L. (2022). Post-SSRI Sexual Dysfunction (PSSD).
 In *Textbook of Rare Sexual Medicine Conditions* (pp. 51-63). Springer, Cham.
+[[CrossRef]](https://doi.org/10.1007/978-3-030-98263-8_5)
 [[SpringerLink]](https://link.springer.com/chapter/10.1007/978-3-030-98263-8_5)
 
 1. Schifano, N., Capogrosso, P., Fallara, G., Pozzi, E., Belladelli, F., Candela, L., ... 
