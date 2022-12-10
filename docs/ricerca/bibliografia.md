@@ -259,6 +259,6 @@ sertraline discontinuation.
 *Psychother Psychosom*. 2006;75(3):187-8.
 [[PubMed]](https://pubmed.ncbi.nlm.nih.gov/16636635)
 
-1. Bahrick, Audrey & Audrey,. (2006). Post SSRI Sexual Dysfunction.
+1. Bahrick, Audrey & Audrey. (2006). Post SSRI Sexual Dysfunction.
 *ASAP Tablet*. 7. 2-3, 10.
 [[ResearchGate]](https://www.researchgate.net/publication/236587031_Post_SSRI_Sexual_Dysfunction)
