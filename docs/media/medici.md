@@ -4,6 +4,8 @@ Questa pagina raccoglie alcuni articoli divulgativi sulla disfunzione sessuale p
 
 ## Pagine di informazione medica
 
+* [Post-SSRI Sexual Dysfunction & Medical Decision Making Under Uncertainty](https://awaisaftab.substack.com/p/post-ssri-sexual-dysfunction-and)
+    * 2022-12-09 | Nel 2019, l'Agenzia Europea dei Medicinali (EMA) ha riconosciuto che la disfunzione sessuale può persistere dopo l'interruzione del trattamento con antidepressivi serotoninergici e ha chiesto di aggiornare di conseguenza le etichette dei prodotti: "Gli inibitori selettivi della ricaptazione della serotonina (SSRI)/inibitori della ricaptazione della serotonina noradrenalina (SNRI) possono causare sintomi di disfunzione sessuale. [Leggi l'articolo tradotto](./2022-12-09-aftab.md)
 * [Antidepressants and Sex Drive: Sexual Side Effects of SSRIs | Priority Men's Medical](https://prioritymensmedical.com/blog/antidepressants-sex-drive-sexual-side-effects-of-ssris/)
     * 2022-06 | Has your interest in sex gone down the drain the moment you’ve treated your depression? You’re not alone. Millions of people are struggling with the same problem. And for these folks, there’s one underlying source of the issue—SSRI medication.
 * [Is Erectile Dysfunction Caused by Antidepressants Permanent? | Verywell Health](https://www.verywellhealth.com/post-ssri-erectile-dysfunction-5218272)

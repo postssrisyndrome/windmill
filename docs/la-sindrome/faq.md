@@ -93,12 +93,14 @@ e che la sospensione graduale dell'antidepressivo (tapering) non previene il pro
 
 ## Quanto è frequente la PSSD?
 
-Non è noto. [1,2]
+Non è noto. [1,2,3]
 
 Spesso si legge, anche da parte delle stesse persone sofferenti, che la PSSD sarebbe una sindrome rara o molto rara, che capita a pochi sfortunati.
 In realtà, ad oggi non è possibile affermare che la PSSD sia rara o frequente (e in che misura), perché questo aspetto non è mai stato adeguatamente studiato.
 Sulla base dei dati disponibili, si ritiene che forme moderatamente lievi di PSSD possano essere piuttosto comuni.
 Per approfondire bene questo problema, per nulla banale, si consiglia l’[articolo dedicato](prevalenza.md).
+
+> Se i pazienti chiedono quanto sia comune la PSSD, credo che dobbiamo essere sinceri con loro e dire che semplicemente non lo sappiamo. (Ronald Pies, psichiatra)
 
 ## È possibile che i sintomi della PSSD si presentino solo dopo la sospensione?
 
@@ -118,9 +120,12 @@ Si possono avere diversi scenari:
 ## Riferimenti
 
 [1]	Healy, D., et al. "Diagnostic criteria for enduring sexual dysfunction after treatment with antidepressants, finasteride and isotretinoin." *The International Journal of Risk & Safety in Medicine* 33.1 (2022): 65-76.
+
 [2] Bala A, Nguyen HMT, Hellstrom WJG. "Post-SSRI Sexual Dysfunction: A Literature Review."
 *Sex Med Rev*. 2018 Jan;6(1):29-34. doi: 10.1016/j.sxmr.2017.07.002. Epub 2017 Aug 1. Review.
 [[PubMed]](https://pubmed.ncbi.nlm.nih.gov/28778697)
+
+[3] [Post-SSRI Sexual Dysfunction & Medical Decision Making Under Uncertainty](https://awaisaftab.substack.com/p/post-ssri-sexual-dysfunction-and)
 
 ## Links
 
